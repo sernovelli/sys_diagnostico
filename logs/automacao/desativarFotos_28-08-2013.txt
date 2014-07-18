@@ -1,0 +1,10 @@
+ 
+ *------------------------------------------------------------* 
+ Data da ação: 28/08/2013 16:14:37 
+ Ação: Foto Desativada/Despublicada 
+ Pk da foto: 77 
+ URL: arquivos/cliente_123456789/cascavel/fotos/28082013/foto521e4bf5d4c9e28082013161357.jpg 
+ Data Vencimento: 2013-11-26 
+	Loja: teste2222222 
+	Cliente: Cliente 01 
+	Filial: DRH Matriz Cascavel

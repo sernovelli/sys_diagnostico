@@ -1,0 +1,66 @@
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: vcrl2726mj09moad7gm15tbco3
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 13/09/2013 09:24:50 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50161 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /geraarquivos/index.php 
+					  
+	Origem do acesso: http://localhost/geraarquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: vcrl2726mj09moad7gm15tbco3
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 13/09/2013 09:24:54 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50167 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /geraarquivos/index.php 
+					  
+	Origem do acesso: http://localhost/geraarquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: vcrl2726mj09moad7gm15tbco3
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 13/09/2013 09:25:02 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50169 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /geraarquivos/index.php 
+					  
+	Origem do acesso: http://localhost/geraarquivos/?controle=Foto&acao=listar 

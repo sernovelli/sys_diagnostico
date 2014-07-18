@@ -1,0 +1,45 @@
+<?php
+$v_params = $this -> getParams();
+$vetor = $v_params['vetor'];
+?>
+<style>
+	table#table {
+		border: #000000 1px solid;
+	}
+
+	table#table td {
+		border: #000000 1px solid;
+	}
+</style>
+</head>
+<body>
+	<article>
+        <h1>Estat&iacute;sticas - Fotos Postadas</h1>
+	   
+	   <?php
+			 foreach($vetor AS $item) { ?>
+				<p><?php echo "Periodo: ".implode("/", array_reverse(explode("-", $item -> getDataInicio()))) ." - ".implode("/", array_reverse(explode("-", $item -> getDataFinal()))); ?></p>
+				<p><?php echo "Cliente: ".$item -> getNomeCliente(); ?></p>
+				<p><?php echo "Filial: ".$item -> getNomeFilial(); ?></p>
+		<?php } ?>
+	   
+	   
+	   
+        <table style="width:100%;" id="table">
+			<tr>
+				<td>No. Contrato</td>
+				<td>Cliente</td>
+				<td>No. de Fotos</td>
+			</tr>
+		<?php
+			 foreach($vetor AS $item) { ?>
+				<tr>
+					<td><?php echo $item -> getContrato(); ?></td>
+					<td><?php echo $item -> getNomeCliente(); ?></td>
+					<td><?php echo $item -> getQtdeFotos(); ?></td>
+				</tr>
+		<?php } ?>
+		</table>
+	</article>
+</body>
+</html>

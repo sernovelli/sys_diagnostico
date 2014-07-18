@@ -1,0 +1,173 @@
+
+DETALHES DAS RELEASES
+----------------------
+
+# Legenda: 
+	NOV = Novo recurso desenvolvido/adicionado.
+	MEL = Melhoria de recurso já desenvolvido.
+	COR = Correção de erros de regra de negócio (cálculos, validações, outros).
+	BUG = Correção de bugs de nível crítico de programação/desenvolvimento.
+
+# Equipe de Desenvolvimento:
+# Analista Programador: Sergio Novelli
+# Programador: Nelson T. Júnior
+# Webdesigner/UX: Douglas L. Figueiredo
+# Gerente de Projetos: Milton Cesar Campos
+
+# Título: Diagnostic v1.2.2
+# Versão: 1
+# Release: 2
+# Update: 2
+# Data de entrega: 30/09/2013
+# Trabalho realizado:
+	??? - Corrigido a exclusão de arquivos (relatórios) do FTP.
+	??? - Corrigida a geração da paginação do módulo Fotos ao utilizar os filtros.
+	??? - Alterada a visualização/estilização da paginação do módulo Fotos.
+	??? - Retirado o texto do atributo 'title' no evento moouseover das fotos no módulo Fotos.
+	NOV - Implementado gerador completo de estatísticas no módulo 'Estatísticas'.
+	NOV - Implementado o envio automático de emails para os clientes sobre a postagem de novas fotos.
+	COR - Corrigido a inserção de novos clientes para que sua pasta tenha permissão 0755.
+	COR - Corrigido a inserção de novas fotos, fazendo com que o respectivo cliente seja configurado para receber emails de notificações.
+	
+	
+
+
+#--------------------------------------------------#
+# Título: Diagnostic v1.2.1
+# Versão: 1
+# Release: 2
+# Update: 1
+# Data de entrega: 13/09/2013
+# Trabalho realizado:
+	NOV - Implementado recurso para converter a entrada de dados de todos os formulários em MAIÚSCULO.
+	NOV - Implementado o módulo Estatísticas com filtros para geração de relatórios.
+	NOV - Implementado o relatório de postagem de fotos por período e cliente específico.
+	MEL - Adicionada a possibilidade de envio de arquivos (relatórios) nos formatos .xls e .xlsx no módulo 'Relatórios'.
+	MEL - Corrigido as ações de 'edição', 'exclusão' e 'publicação/despublicação' para retornar a página anterior de acordo com a paginação no módulo 'Fotos'.
+	MEL - Corrigido redimensionamento das imagens para manter o tamanho original quando ela tiver 640x480px ou 480x640px.
+	MEL - Alterado o módulo de 'Fotos' para que seja possível a inclusão de blocos de fotos, tendo como limite de tamanho até 2MB.
+	COR - Corrigido o recurso de download para que esteja disponível para os usuários com perfil 'cliente' no módulo Fotos.
+	COR - Corrigido o recuros de download para que esteja disponível para os usuários com perfil 'cliente' no módulo Relatórios.
+	COR - Corrigido o download de arquivos e fotos para que sejam salvos com o nome original do arquivo.
+	BUG - Corrigido o link 'voltar para fotos' da página de log apresentado ao fazer o upload de fotos.
+	BUG - Corrigido a exclusão de vinculo de cliente com filial.
+	BUG - Corrigido a exclusão de cliente.
+	
+	
+
+#--------------------------------------------------#
+# Título: Diagnostic v1.2.0
+# Versão: 1
+# Release: 2
+# Update: 0
+# Data de entrega: 31/08/2013
+# Trabalho realizado:
+	NOV - Implementados os filtros no módulo 'Relatórios'.
+	NOV - Implementados os filtros no módulo 'Clientes'.
+	NOV - Implementados os filtros no módulo 'Filial'.
+	NOV - Implementados os filtros no módulo 'Usuários'.
+	NOV - Implementados os filtros no módulo 'Usuários da Filial'.
+	NOV - Implementados os filtros no módulo 'Usuários do Cliente'.
+	NOV - Implementados os filtros no módulo 'Clientes da Filial'.
+	NOV - Implementados os filtros no módulo 'Menus dos Perfis'.
+	NOV - Implementados os filtros no módulo 'Cidades'.
+	NOV - Implementados os filtros no módulo 'Menus'.
+	NOV - Implementado o redimensionamento das fotos grandes para o tamanho de 480x640 px.
+	NOV - Implementado a criação de miniaturas das fotos em tamanho 120x160 px.
+	NOV - Implementado a gravação em banco de dados do caminho completo das fotos miniaturas.
+	NOV - Implementadas as mensagens de erro no tratamento de imagens (redimensionamento, criação de miniatura e gravação).
+	NOV - Adicionado a visualização de arquivos .pdf no módulo Relatórios.
+	NOV - Adicionado o download de arquivos .pdf, .ppt, .pptx e .pps no módulo Relatórios.
+	NOV - Adicionado o download de fotos em formato .jpg/.jpeg.
+	NOV - Implementado a desativação de Fotos que foram inclusas há 90 dias ou mais.
+	NOV - Implementado a desativação de Arquivos que foram inclusos há 90 dias ou mais.
+	NOV - Implementado a exclusão de Fotos que foram inclusas há 120 dias ou mais.
+	NOV - Implementado a exclusão de Arquivos que foram inclusos há 120 dias ou mais.
+	MEL - Ao fazer upload de Fotos e Arquivos, o sistema o renomeia para um padrão com um id único gerado automaticamente e a data-hora de inclusão.
+	MEL - Corrigido o recurso de exclusão de fotos para excluir também as miniaturas criadas.
+	MEL - No cadastro de usuários, foi corrigido o campo 'Status' para que se possa escolher entre 'Ativo/Inativo'.
+	MEL - No cadastro de usuários, foi corrigido o campo 'Perfil' para que exiba apenas o perfil cliente, quando é um gerente que está logado.
+	MEL - No cadastro de fotos, foi corrigido o campo 'Status' para que a opção 'Ativo' esteja selecionada ao adicionar uma nova foto.
+	MEL - No cadastro de relatórios, foi corrigido o campo 'Status' para que a opção 'selecione' esteja selecionada ao adicionar um novo relatório.
+	MEL - Na edição de relatórios, foi corrigido o campo 'Cliente' para que já venha selecionado o cliente para o qual esse relatório pertence.
+	MEL - Na edição de fotos, foi corrigido o campo 'Cliente' para que já venha selecionado o cliente para o qual essa foto pertence.
+	MEL - Na inclusão de fotos, foi corrigido o campo 'Data Inclusão', pois o mesmo não estava apresentando a data.
+	MEL - Na inclusão de fotos e de relatórios, foi alterado o campo 'Mês de Referência' para um campo de seleção.
+	MEL - Na inclusão de fotos e de relatórios, foi retirado o campo 'Data de Vencimento'. Esta data está sendo calculada automaticamente com base na data de inclusão.
+	MEL - Na inclusão de fotos e de relatórios, foi retirado o campo 'Data de Exclusão'. Esta data está sendo calculada automaticamente com base na data de inclusão.
+	MEL - O módulo 'Fotos' foi alterado para apresentar as fotos em forma de galeria de imagens.
+	MEL - Na apresentação em lightbox do módulo de fotos, foi alterada a forma de apresentação das informações de cada foto, pois essas estavam sendo cortadas devido a resolução do monitor. 
+	MEL - Durante a edição de uma foto, no módulo 'Fotos', o campo cliente foi alterado para não ser editável, para manter a integridade da sincronia entre o sistema, banco de dados e FTP.
+	
+
+	
+
+#--------------------------------------------------#
+# Título: Diagnostic v1.1.0
+# Versão: 1
+# Release: 1
+# Update: 0
+# Data de entrega: 07/08/2013
+# Trabalho realizado:
+	NOV - Implementação da apresentação dos dados do usuário logado no painel inicial para o perfil 'cliente'.
+	NOV - Implementação da alteração/atualização de dados do usuário logado 'cliente'.
+	NOV - Implementação da apresentação dos dados do usuário logado no painel inicial para o perfil 'gerente'.
+	NOV - Implementação da alteração/atualização de dados do usuário logado 'gerente'.
+	NOV - Implementado a apresentação dos ícones de atalhos do painel inicial de acordo com o perfil do usuário logado.
+	NOV - Implementado o módulo de suporte para o cliente: o cliente logado consegue enviar e-mail de suporte para o gerente de sua filial.
+	NOV - Implementado o módulo de suporte para o gerente: o gerente logado consegue enviar e-mail de suporte para o super administrador do sistema.
+	NOV - Implementado o menu de acesso rápido 'Configurações' no topo da tela para o perfil 'cliente'.
+	NOV - Implementado o menu de acesso rápido 'Configurações' no topo da tela para o perfil 'gerente'.
+	NOV - Implementado as últimas fotos adicionadas de acordo com a filial do cliente logado, apresentado no painel inicial.
+	NOV - Implementado os últimos arquivos (relatórios) adicionados de acordo com a filial do cliente logado, apresentado no painel inicial.
+	NOV - Implementado as últimas fotos adicionadas de acordo com o gerente logado, apresentado no painel inicial.
+	NOV - Implementado os últimos arquivos (relatórios) adicionados de acordo com o gerente logado, apresentado no painel inicial.
+	NOV - Implementado a edição da filial do gerente logado.
+	NOV - Implementado o suporte técnico para perfil 'super administrador'.
+	NOV - Implementado edição dos dados de acesso do usuário logado no perfil 'super administrador'.
+	MEL - Configurado acesso aos itens de menu para os perfis 'cliente' e 'gerente'.
+	MEL - Alterada a forma como o sistema controla o perfil de acesso: foi adicionado um 'hashid' para identificação do perfil do usuário logado.
+	MEL - Alterada a apresentação do menu lateral através do perfil de acesso: agora é apresentado de acordo com o 'hashid' criado para cada perfil.
+	MEL - Alterada a apresentação dos relatórios (arquivos) para o perfil 'cliente': é apresentado de acordo com o 'id' do cliente logado e a filial em que ele está vinculado.
+	MEL - Alterada a apresentação dos relatórios (arquivos) para o perfil 'gerente': é apresentado de acordo com a filial na qual o mesmo está vinculado.
+	MEL - Alterada a apresentação da função para indicar o STATUS do registro, em todos os módulos, sendo exibidos ícones diferentes para cada STATUS.
+	MEL - Os módulos 'Usuários Filial', 'Usuários Cliente' e 'Filial Cliente' agora estão exibindo apenas dados relacionados à filial do gerente logado.
+	MEL - Alterados os títulos das páginas, deixando-os mais simples e claro.
+	MEL - Alterado o caminho físico (FTP) da pasta onde devem ser criadas as pastas, subpastas e arquivos/fotos ao realizar upload.
+	MEL - Alterado a apresentação das ações 'incluir, editar, excluir, publicar/despublicar' para o perfil 'gerente'.
+	BUG - Corrigida a apresentação de fotos no painel inicial, pois o caminho da foto estava errado o que causava a não exibição das fotos.
+	BUG - Corrigida a exclusão de fotos que estava acusando erro.
+	BUG - Corrigida a edição de vinculo filial/cliente que estava tentando fazer uma nova inclusão no banco em vez de apenas atualizar o registro.
+	BUG - Corrigida o envio de fotos - quando se editava o vinculo filial/cliente, estava perdendo o caminho da 'pastaFilial', dando erro no upload da foto.
+
+
+
+#--------------------------------------------------#
+# Título: Diagnostic v1.0.0
+# Versão: 1
+# Release: 0
+# Update: 0
+# Data de entrega: 12/07/2013
+# Trabalho realizado:
+	NOV - Análise e definição do projeto.
+	NOV - Análise e criação do banco de dados.
+	NOV - Desenvolvimento do core do sistema.
+	NOV - Estruturação básica do sistema.
+	NOV - Implementação do controle de usuários e perfis de acesso.
+	NOV - Implementação do controle de sessão.
+	NOV - Implementação da gravação de logs de acesso e operações do usuário logado no sistema, para auditoria.
+	NOV - Definição da navegação principal do sistema com as devidas permissões de acesso.
+	NOV - Implementação da navegação principal do sistema para inclusão dinâmica dos itens e subitens de menu via interface gráfica granvando no banco de dados.
+	NOV - Implementação dos principais módulos do sistema (filiais, clientes, menus, usuários, perfis, cidades e estados).
+	NOV - Implementação dos módulos de vínculo de dados (perfil - Menu, cliente - Usuário, Filial - Usuário, Filial - Cliente).
+	NOV - Criação dos layouts (no photoshop) da interface gráfica do sistema.
+	NOV - Implementação da interface gráfica.
+	NOV - Implementação da central de mensagens de interação com o usuário.
+	NOV - Implementação de campos <select /> dinâmicos via PHP listando itens automaticamente a partir do banco de dados.
+	NOV - Implementação da camada FTP com criação da pasta do cliente ao cadastrar novo cliente.
+	NOV - Implementação da camada FTP com criação da pasta da filial e as subpastas 'relatorios' e 'fotos' ao fazer o vínculo entre filial e cliente.
+	NOV - Implementação da camada FTP com criação da pasta com a data atual dentro da pasta 'relatorios' ao fazer o envio de novo relatório.
+	NOV - Implementação da camada FTP com criação da pasta com a data atual dentro da pasta 'fotos' ao fazer o envio de nova foto.
+	NOV - Implementação do envio por FTP de fotos e relatórios.
+	NOV - Implementação da edição de registros de fotos e relatórios com alteração dos arquivos no FTP apenas se o campo de upload for preenchido.
+	NOV - Implementação da ação de ativar/desativar registros de fotos e relatorios para evitar a exclusão equivocada de dados do banco vinculados a arquivos/pastas e vice-versa.

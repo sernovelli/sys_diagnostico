@@ -1,0 +1,91 @@
+<?php
+$v_params = $this->getParams();
+$objeto = $v_params['objeto'];
+
+include_once 'includes/head.php';
+?>
+<script type="text/javascript">
+ jQuery(document).ready(function($) {
+   $("#dataVencimento").mask("99/99/9999");
+   $("#dataExclusao").mask("99/99/9999");
+});
+</script>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Relat&oacute;rios</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php 
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+		<?php } ?>
+			
+			<div id="formulario">
+				
+				<form method="post" enctype="multipart/form-data">
+					
+					<label for="id">Id:</label>
+					<input type="text" name="id" size="5" id="id" value="<?php echo $objeto->getPkArquivo()?>" disabled="disabled" />
+					
+					<label for="descricao">Descri&ccedil;&atilde;o:</label>
+					<input type="text" name="descricao" id="descricao" value="<?php echo $objeto->getDescricao()?>" required />
+
+					<br />
+					<label for="dataInclusao">Data Inclus&atilde;o:</label>
+					<?php if (isset($_GET['id'])) { ?>
+						<input type="text" name="dataInclusao" id="dataInclusao" value="<?php echo implode("/", array_reverse(explode("-",$objeto->getDtInclusao()))); ?>" disabled="disabled" />
+					<?php } else { ?>
+						<input type="text" name="dataInclusao" id="dataInclusao" value="<?php echo date("d/m/Y"); ?>" disabled="disabled" />
+					<?php } ?>
+					
+					<br />
+					<label for="status">Status:</label>
+					<select name="status" required >
+						<option value="-1" selected="selected">Selecione:</option>
+						<option value="1" <?php if ($objeto->getArquivoStatus() == 1) { echo "selected='selected'";} else { echo ""; } ?>>Ativo</option>
+						<option value="2" <?php if ($objeto->getArquivoStatus() == 2) { echo "selected='selected'";} else { echo ""; } ?>>Inativo</option>
+					</select>
+					
+					<br />
+					<label for="notificar">Notificação:</label>
+					<input type="checkbox" value="1" name="notificar" id="notificar" <?php if ($objeto->getArquivoStatus() == 1) { echo "checked='checked'"; } else { echo ""; } ?> required />&nbsp;Enviar notificação por e-mail.
+					
+					<br />
+					<label for="idcliente">Cliente:</label>
+					<?php
+						 include_once 'controllers/SelectorController.php';
+						 $seletor = new SeletorController();
+						 
+						 if (!isset($_GET['id'])) {
+						 	echo $seletor->seletores(7,$objeto->getIdCliente());
+						 } else {
+						 	echo $seletor->seletores(10,$objeto->getIdCliente());
+						 }
+					?>
+					
+					<br />
+					<label for="arquivo">Arquivo:</label>
+					<input type="file" name="arquivo" id="arquivo" value="" required />
+					
+					<div id="botoesManter">
+						<input type="hidden" name="idFilial" value="<?php echo $_SESSION['idFilial'] ?>" />
+						<input type="hidden" name="MAX_FILE_SIZE" value="100000000" />
+						
+						<input type='hidden' name='controle' value='Arquivo'>
+						<input type='hidden' name='acao' value='manter'>
+						<input type='hidden' name='id' value='<?php echo $objeto->getPkArquivo()?>'>
+						
+						<a href="?controle=Arquivo&acao=listar">Cancelar</a>&nbsp;&nbsp;
+						<button type='submit' class='btSalvar'>Salvar</button>
+					</div>
+				</form>
+			</div>
+	</article>
+</body>
+</html>

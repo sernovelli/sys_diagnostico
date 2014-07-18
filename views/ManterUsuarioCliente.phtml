@@ -1,0 +1,58 @@
+<?php
+$v_params = $this->getParams();
+$objeto = $v_params['objeto'];
+
+include_once 'includes/head.php';
+?>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Usu&aacute;rio do Cliente</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php 
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+		<?php } ?>
+			
+			<div id="formulario">
+				
+				<form method="post">
+					
+					<label for="id">Id:</label>
+					<input type="text" name="id" size="5" id="id" value="<?php echo $objeto->getPkClienteUsuario()?>" disabled="disabled" />
+					
+					<br />
+					<label for="idusuario">Usu&aacute;rio:</label>
+					<?php  
+						 include_once 'controllers/SelectorController.php';
+						 $seletor = new SeletorController();
+						 echo $seletor->seletores(5,$objeto->getPkdoUsuario());
+					?>
+
+					<br />
+					<label for="idcliente">Cliente:</label>
+					<?php  
+						 $seletor = new SeletorController();
+						 echo $seletor->seletores(7,$objeto->getPkdoCliente());
+					?>
+
+					<div id="botoesManter">
+						<input type='hidden' name='controle' value='UsuarioCliente'>
+						<input type='hidden' name='acao' value='manter'>
+						<input type='hidden' name='id' value='<?php echo $objeto->getPkClienteUsuario()?>'>
+						
+						<a href="?controle=UsuarioCliente&acao=listar">Cancelar</a>&nbsp;&nbsp;
+						<button type='submit' class='btSalvar'>Salvar</button>
+					</div>
+				</form>
+				
+			</div>
+	</article>
+</body>
+</html>

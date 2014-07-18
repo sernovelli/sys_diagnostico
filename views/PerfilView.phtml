@@ -1,0 +1,79 @@
+<?php
+$v_params = $this->getParams();
+$vetor = $v_params['vetor'];
+
+$controle = $_REQUEST['controle'];
+
+include_once 'includes/head.php';
+?>
+
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Perfis</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php 
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+		<?php } ?>
+		
+        <section id="opcoes">
+            <div id="filtros">
+                <!-- <form name="filtro" method="post">
+                    <label for="tipo">Perfil:</label>
+                    <input type="text" name="nome" id="nome" value="" />
+                    
+                    <input type='hidden' name='controle' value='Perfil'>
+				<input type='hidden' name='acao' value='listar'>
+                    <input type="submit" value="Filtrar" />
+                </form> -->
+            </div>
+            <?php if ($_SESSION['adicionar'] == 1) { ?>
+                <a id="novo" href='?controle=<?php echo $controle; ?>&acao=manter' class='icoNovo'>Adicionar um novo item</a>
+            <?php } ?>
+        </section>
+        <div class="clear"></div>
+			
+			
+        <table style="width:100%;" id="table" class="sortable">
+			<thead>	
+				<tr>
+					<th>Id</th>
+					<th>Perfil</th>
+					<th>Adicionar</th>
+					<th>Editar</th>
+					<th>Excluir</th>
+					<th class="nosort"></th>
+					
+				</tr>
+			</thead>
+			<tbody>
+				<?php
+				foreach($vetor AS $item) { ?>
+					<tr>
+						<td><?php echo $item->getPkPerfil(); ?></td>
+						<td><?php echo $item->getPerfil(); ?></td>
+						<td><?php echo $item->getAdicionar(); ?></td>
+						<td><?php echo $item->getEditar(); ?></td>
+						<td><?php echo $item->getExcluir(); ?></td>
+						<td>
+                            		<a href="#" class="icoPublicar linkOpcoes">Publicar</a>
+                            		<a href="#" class="icoDespublicar linkOpcoes">Despublicar</a>
+							<a href='?controle=<?php echo $controle; ?>&acao=manter&id=<?php echo $item->getPkPerfil()?>' class='icoEditar linkOpcoes'>Editar</a>
+							<a href='?controle=<?php echo $controle; ?>&acao=apagar&id=<?php echo $item->getPkPerfil()?>' class='icoExcluir linkOpcoes'>Excluir</a>
+						</td>
+					</tr>
+				<?php } ?>
+			</tbody>
+			</table>
+			<!-- Paginação -->
+			<?php include_once 'includes/paginacao.php'; ?>
+	</article>
+</body>
+</html>

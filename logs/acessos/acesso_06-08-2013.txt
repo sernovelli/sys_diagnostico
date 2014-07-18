@@ -1,0 +1,2310 @@
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:53:55 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61992 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:53:58 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61995 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:54:00 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60000 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:54:43 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60061 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:54:44 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60062 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:54:57 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60069 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:54:58 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60072 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioCliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:55:26 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60124 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioCliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:55:30 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60125 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioCliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:55:32 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60126 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=FilialCliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:55:44 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60139 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=FilialCliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:55:44 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60140 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=FilialCliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:55:48 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60143 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=FilialCliente&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:55:50 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60144 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:56:32 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60186 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:56:32 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60187 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:56:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60189 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:56:37 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60192 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioCliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:56:43 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60195 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioCliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0f9441528992834334d3444735a60831
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:56:43 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60196 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioCliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 69409fc86292cb02806e8a70d687f073
+					  
+ Nome da sessão: PHPSESSID_TESTANDO
+					  
+ Usuário: testando (testando)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 06-08-2013 08:57:16 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60220 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 69409fc86292cb02806e8a70d687f073
+					  
+ Nome da sessão: PHPSESSID_TESTANDO
+					  
+ Usuário: testando (testando)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 06-08-2013 08:57:33 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60226 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 69409fc86292cb02806e8a70d687f073
+					  
+ Nome da sessão: PHPSESSID_TESTANDO
+					  
+ Usuário: testando (testando)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 06-08-2013 08:57:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60228 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 69409fc86292cb02806e8a70d687f073
+					  
+ Nome da sessão: PHPSESSID_TESTANDO
+					  
+ Usuário: testando (testando)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 06-08-2013 08:57:36 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60230 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 69409fc86292cb02806e8a70d687f073
+					  
+ Nome da sessão: PHPSESSID_TESTANDO
+					  
+ Usuário: testando (testando)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 06-08-2013 08:57:38 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60231 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 975776dd9123b400a4d7d8f7cec22b88
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:57:47 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60236 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 975776dd9123b400a4d7d8f7cec22b88
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:58:57 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60250 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 975776dd9123b400a4d7d8f7cec22b88
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:58:59 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60251 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 975776dd9123b400a4d7d8f7cec22b88
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:59:39 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60255 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 975776dd9123b400a4d7d8f7cec22b88
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 08:59:39 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60256 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 975776dd9123b400a4d7d8f7cec22b88
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:00:00 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60261 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 975776dd9123b400a4d7d8f7cec22b88
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:00:02 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60262 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioFilial&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 975776dd9123b400a4d7d8f7cec22b88
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:00:09 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60263 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioFilial&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 975776dd9123b400a4d7d8f7cec22b88
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:00:09 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60264 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioFilial&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:00:20 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60269 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:00:53 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60276 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:00:57 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60281 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:01:07 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60298 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:01:11 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60304 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=DadosAcesso&acao=manter&id=17 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:01:14 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60305 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=dashboard 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:01:14 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60306 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:01:19 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60308 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:02:13 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60325 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:02:13 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60326 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:02:32 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60327 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:02:34 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60328 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:02:58 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60332 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:02:58 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60333 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:04:26 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60382 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:04:26 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60383 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:04:28 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60386 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:04:29 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60394 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:12:17 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60642 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:12:19 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60644 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:13:42 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60673 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:13:47 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60674 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:13:52 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60675 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:15:26 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60701 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:15:27 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60702 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:16:03 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60725 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:16:05 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60726 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:17:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60764 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=manter&id=29 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:17:38 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60765 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:18:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60766 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=manter&id=19 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:18:38 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60767 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:18:43 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60768 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:24:08 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60899 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:30 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60940 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:34 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60943 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60945 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60941 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60942 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60946 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60947 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60948 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60950 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60951 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60952 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60953 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60954 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60957 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60956 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:36 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60949 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8d761915c3ddb3a16be9a431750c841e
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 09:25:36 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60955 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 0e3f5284ecb4884a3241b2076b266c99
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:52:17 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60235 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 5e42cabec4526cf1eed46b7fa574fa39
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:53:12 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60544 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 2dfce4bc16bfc06b21860f47741b28d4
+					  
+ Nome da sessão: PHPSESSID_TESTANDO
+					  
+ Usuário: testando (testando)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 06-08-2013 16:53:42 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60585 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 2e02949d8db6fa9f70235f65c1ecaca8
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:54:17 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60768 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 320a6e906c5ad442bf6e864694432dae
+					  
+ Nome da sessão: PHPSESSID_TESTANDO
+					  
+ Usuário: testando (testando)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 06-08-2013 16:55:00 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61060 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 320a6e906c5ad442bf6e864694432dae
+					  
+ Nome da sessão: PHPSESSID_TESTANDO
+					  
+ Usuário: testando (testando)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 06-08-2013 16:55:02 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61066 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 3a8ea25eb930c6774491be682b3b8fb9
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:55:12 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61075 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 3a8ea25eb930c6774491be682b3b8fb9
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:55:14 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61076 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 3a8ea25eb930c6774491be682b3b8fb9
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:55:16 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61078 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 3a8ea25eb930c6774491be682b3b8fb9
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:57:38 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61542 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 3a8ea25eb930c6774491be682b3b8fb9
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:57:39 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61544 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: b9a19318b897fb661710cc33b3bf992b
+					  
+ Nome da sessão: PHPSESSID_TESTANDO
+					  
+ Usuário: testando (testando)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 06-08-2013 16:58:04 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61592 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 82311639e8350a7063f99037614f8d88
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:58:50 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61733 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 82311639e8350a7063f99037614f8d88
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:58:55 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61734 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 82311639e8350a7063f99037614f8d88
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:58:57 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61771 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 82311639e8350a7063f99037614f8d88
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:59:03 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61785 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 82311639e8350a7063f99037614f8d88
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:59:05 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61789 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 82311639e8350a7063f99037614f8d88
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 16:59:08 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 61796 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 82311639e8350a7063f99037614f8d88
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 17:03:13 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60523 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 82311639e8350a7063f99037614f8d88
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 17:03:20 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60525 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Filial&acao=manter&id=4 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 82311639e8350a7063f99037614f8d88
+					  
+ Nome da sessão: PHPSESSID_CTBA
+					  
+ Usuário: Gerente ctba (ctba)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 06-08-2013 17:03:35 
+					  
+	End. IP: 187.115.38.128 
+					  
+	Porta: 60543 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Suporte&acao=manter&idFilial=4 

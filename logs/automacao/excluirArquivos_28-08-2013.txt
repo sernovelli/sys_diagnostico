@@ -1,0 +1,9 @@
+ 
+ *------------------------------------------------------------* 
+ Data da ação: 28/08/2013 16:12:08 
+ Ação: Arquivo excluído do FTP e do Banco de Dados. 
+ Pk do arquivo: 42 
+ URL: arquivos/cliente_123456789/cascavel/relatorios/28082013/relatorio521e4b6fbb7b528082013161143.pptx 
+ Data Exclusão:  
+	Cliente: Cliente 01 
+	Filial: DRH Matriz Cascavel

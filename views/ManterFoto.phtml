@@ -1,0 +1,127 @@
+<?php
+$v_params = $this->getParams();
+$objeto = $v_params['objeto'];
+
+include_once 'includes/head.php';
+?>
+<script type="text/javascript">
+ jQuery(document).ready(function($) {
+   $("#dataVencimento").mask("99/99/9999");
+   $("#dataExclusao").mask("99/99/9999");
+});
+</script>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Foto</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php 
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+		<?php } ?>
+			
+			<div id="formulario">
+				
+				<form method="post" enctype="multipart/form-data">
+					
+					<label for="id">Id:</label>
+					<input type="text" name="id" size="5" id="id" value="<?php echo $objeto->getPkFoto()?>" disabled="disabled" />
+					
+					<label for="loja">Loja:</label>
+					<input type="text" name="loja" id="loja" value="<?php echo $objeto->getLoja()?>" required />
+
+					<br />
+					<label for="p">Coordenador:</label>
+					<input type="text" name="coordenador" id="coordenador" value="<?php echo $objeto->getCoordenador()?>" required />
+					
+					<br />
+					<label for="promotor">Promotor:</label>
+					<input type="text" name="promotor" id="promotor" value="<?php echo $objeto->getPromotor()?>" required />
+					
+					<br />
+					<label for="mesReferencia">M&ecirc;s Refer&ecirc;ncia:</label>
+					<!-- <input type="text" name="mesReferencia" id="mesReferencia" value="<?php echo $objeto->getMesRefere()?>" required /> -->
+					<?php $anoAtual = date("Y"); ?>
+					<select name="mesReferencia" id="mesReferencia" required >
+						<option value="0" selected="selected">Selecione:</option>
+						<option value="1" <?php if ($objeto->getMesRefere() == 1) { echo "selected='selected'"; } else { echo ""; } ?>>Janeiro/<?php echo $anoAtual;?></option>
+						<option value="2" <?php if ($objeto->getMesRefere() == 2) { echo "selected='selected'"; } else { echo ""; } ?>>Fevereiro/<?php echo $anoAtual;?></option>
+						<option value="3" <?php if ($objeto->getMesRefere() == 3) { echo "selected='selected'"; } else { echo ""; } ?>>Março/<?php echo $anoAtual;?></option>
+						<option value="4" <?php if ($objeto->getMesRefere() == 4) { echo "selected='selected'"; } else { echo ""; } ?>>Abril/<?php echo $anoAtual;?></option>
+						<option value="5" <?php if ($objeto->getMesRefere() == 5) { echo "selected='selected'"; } else { echo ""; } ?>>Maio/<?php echo $anoAtual;?></option>
+						<option value="6" <?php if ($objeto->getMesRefere() == 6) { echo "selected='selected'"; } else { echo ""; } ?>>Junho/<?php echo $anoAtual;?></option>
+						<option value="7" <?php if ($objeto->getMesRefere() == 7) { echo "selected='selected'"; } else { echo ""; } ?>>Julho/<?php echo $anoAtual;?></option>
+						<option value="8" <?php if ($objeto->getMesRefere() == 8) { echo "selected='selected'"; } else { echo ""; } ?>>Agosto/<?php echo $anoAtual;?></option>
+						<option value="9" <?php if ($objeto->getMesRefere() == 9) { echo "selected='selected'"; } else { echo ""; } ?>>Setembro/<?php echo $anoAtual;?></option>
+						<option value="10" <?php if ($objeto->getMesRefere() == 10) { echo "selected='selected'"; } else { echo ""; } ?>>Outubro/<?php echo $anoAtual;?></option>
+						<option value="11" <?php if ($objeto->getMesRefere() == 11) { echo "selected='selected'"; } else { echo ""; } ?>>Novembro/<?php echo $anoAtual;?></option>
+						<option value="12" <?php if ($objeto->getMesRefere() == 12) { echo "selected='selected'"; } else { echo ""; } ?>>Dezembro/<?php echo $anoAtual;?></option>
+					</select>
+
+					<br />
+					<label for="dataInclusao">Data Inclus&atilde;o:</label>
+					<?php if (isset($_GET['id'])) { ?>
+						<input type="text" name="dataInclusao" id="dataInclusao" value="<?php echo implode("/", array_reverse(explode("-",$objeto->getDtInclusao()))); ?>" disabled="disabled" />
+					<?php } else { ?>
+						<input type="text" name="dataInclusao" id="dataInclusao" value="<?php echo date("d/m/Y"); ?>" disabled="disabled" />
+					<?php } ?>
+					
+					<!-- <br />
+					<label for="notificar">Notificação:</label>
+					<input type="checkbox" value="1" name="notificar" id="notificar" <?php if ($objeto->getFotoStatus() == 1) { echo "checked='checked'"; } else { echo ""; } ?> />&nbsp;Enviar notificação por e-mail.
+					 -->
+					<br />
+					<label for="idcliente">Cliente:</label>
+					<?php // se estiver editando o registro, o cliente não pode ser alterado.
+						 if (isset($_GET['id'])) { 
+					?>
+							<input type="text" name="cliente" id="cliente" value="<?php echo $objeto->getNomeCliente(); ?>" disabled="disabled" />
+							<input type="hidden" name="idcliente" id="idcliente" value="<?php echo $objeto->getIdCliente(); ?>" />
+					<?php
+						 } else {
+						
+							 include_once 'controllers/SelectorController.php';
+							 $seletor = new SeletorController();
+							 
+							 if (!isset($_GET['id'])) {
+							 	echo $seletor->seletores(7,$objeto->getIdCliente());
+							 } else {
+							 	echo $seletor->seletores(10,$objeto->getIdCliente());
+							 }
+						 }
+					?>
+
+					<br />
+					<label for="status">Status:</label>
+					<select name="status" required >
+						<option value="1" selected="selected">Ativo</option>
+						<option value="2" <?php if ($objeto->getFotoStatus() == 2) { echo "selected='selected'";} else { echo ""; } ?>>Inativo</option>
+					</select>
+					
+					<br />
+					<label for="foto">Foto:</label>
+					<input type="file" name="foto[]" id="foto" value="" multiple />
+					
+					<div id="botoesManter">
+						
+						<input type="hidden" name="MAX_FILE_SIZE" value="100000000" />
+						<input type="hidden" name="idFilial" value="<?php echo $_SESSION['idFilial'] ?>" />
+
+						<input type='hidden' name='controle' value='Foto'>
+						<input type='hidden' name='acao' value='manter'>
+						<input type='hidden' name='id' value='<?php echo $objeto->getPkFoto()?>'>
+						
+						<a href="?controle=Foto&acao=listar&pag=<?php echo $_REQUEST['pag'];?>">Cancelar</a>&nbsp;&nbsp;
+						<button type='submit' class='btSalvar'>Salvar</button>
+					</div>
+				</form>
+			</div>
+	</article>
+</body>
+</html>

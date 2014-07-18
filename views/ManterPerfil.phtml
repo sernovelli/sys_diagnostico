@@ -1,0 +1,58 @@
+<?php
+$v_params = $this->getParams();
+$objeto = $v_params['objeto'];
+
+include_once 'includes/head.php';
+?>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Perfil</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php 
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+		<?php } ?>
+			
+			<div id="formulario">
+				
+				<form method="post">
+					
+					<label for="id">Id:</label>
+					<input type="text" name="id" size="5" id="id" value="<?php echo $objeto->getPkPerfil()?>" disabled="disabled" />
+					
+					<label for="perfil">Perfil:</label>
+					<input type="text" name="perfil" id="perfil" value="<?php echo $objeto->getPerfil()?>" required />
+					
+					<label for="hash">Hash:</label>
+					<input type="text" name="hash" id="hash" value="<?php echo $objeto->getHashid()?>" required />
+					
+					<br />
+					<label for="adicionar">Adicionar:</label>
+					<input type="checkbox" name="adicionar" id="adicionar" value="1" />&nbsp;Sim&nbsp;&nbsp;
+					
+					<label for="editar">Editar:</label>
+					<input type="checkbox" name="editar" id="editar" value="1" />&nbsp;Sim&nbsp;&nbsp;
+					
+					<label for="excluir">Excluir:</label>
+					<input type="checkbox" name="excluir" id="excluir" value="1" />&nbsp;Sim&nbsp;&nbsp;
+
+					<div id="botoesManter">
+						<input type='hidden' name='controle' value='Perfil'>
+						<input type='hidden' name='acao' value='manter'>
+						<input type='hidden' name='id' value='<?php echo $objeto->getPkPerfil()?>'>
+						
+						<a href="?controle=Perfil&acao=listar">Cancelar</a>&nbsp;&nbsp;
+						<button type='submit' class='btSalvar'>Salvar</button>
+					</div>
+				</form>
+			</div>
+	</article>
+</body>
+</html>

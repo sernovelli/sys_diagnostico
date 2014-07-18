@@ -1,0 +1,71 @@
+<?php
+$v_params = $this->getParams();
+$vetor = $v_params['vetor'];
+
+$controle = $_REQUEST['controle'];
+
+include_once 'includes/head.php';
+?>
+
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Filiais</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+			<div id="mensagem" style="display:block;">
+			   <?php //echo strtoupper($mensagem);
+			   		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+			   ?>
+			</div>
+	   <?php } ?>
+        
+        <section id="opcoes">
+            <div id="filtros">
+                <!-- No momento, não há necessidade de implementar filtros nesse módulo. 
+                	<form name="filtro" method="post">
+                    <label for="tipo">Nome:</label>
+                    <input type="text" name="nome" id="nome" value="" />
+                    <input type="submit" value="Filtrar" />
+                </form> -->
+            </div>
+            <?php if ($_SESSION['adicionar'] == 1) { ?>
+                <a id="novo" href='?controle=<?php echo $controle; ?>&acao=manter' class='icoNovo'>Adicionar uma nova filial</a>
+            <?php } ?>
+        </section>
+        <div class="clear"></div>
+			
+			
+        <table style="width:100%;" id="table" class="sortable">
+			<thead>	
+				<tr>
+					<th>Id</th>
+					<th>Filial</th>
+					<th>Cidade</th>
+					<th class="nosort"></th>
+				</tr>
+			</thead>
+			<tbody>
+				<?php
+				foreach($vetor AS $item) { ?>
+					<tr>
+						<td><?php echo $item->getPkFilial(); ?></td>
+						<td><?php echo $item->getFilial(); ?></td>
+						<td><?php echo $item->getNomeCidade(); ?></td>
+						<td>
+							<?php if ($_SESSION['editar'] == 1) { ?><a href='?controle=<?php echo $controle; ?>&acao=manter&id=<?php echo $item->getPkFilial()?>' class='icoEditar linkOpcoes'>Editar</a><?php } ?>
+							<?php if ($_SESSION['excluir'] == 1) { ?><a href='?controle=<?php echo $controle; ?>&acao=apagar&id=<?php echo $item->getPkFilial()?>' class='icoExcluir linkOpcoes'>Excluir</a><?php } ?>
+						</td>
+					</tr>
+				<?php } ?>
+			</tbody>
+			</table>
+
+			<!-- Paginação -->
+			<?php include_once 'includes/paginacao.php'; ?>
+	</article>
+</body>
+</html>

@@ -1,0 +1,9 @@
+ 
+ *------------------------------------------------------------* 
+ Data da ação: 28/08/2013 16:11:57 
+ Ação: Arquivo Desativado/Despublicado 
+ Pk do arquivo: 42 
+ URL: arquivos/cliente_123456789/cascavel/relatorios/28082013/relatorio521e4b6fbb7b528082013161143.pptx 
+ Data Vencimento: 2013-11-26 
+	Cliente: Cliente 01 
+	Filial: DRH Matriz Cascavel

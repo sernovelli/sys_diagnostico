@@ -1,0 +1,88 @@
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: cc7554ec49bc1cad5feba0e8072198c1
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 12-08-2013 14:23:12 
+					  
+	End. IP: 187.19.109.71 
+					  
+	Porta: 57644 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar&msg=11 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: cc7554ec49bc1cad5feba0e8072198c1
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 12-08-2013 14:24:43 
+					  
+	End. IP: 187.19.109.71 
+					  
+	Porta: 57656 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar&msg=11 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: cc7554ec49bc1cad5feba0e8072198c1
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 12-08-2013 14:24:47 
+					  
+	End. IP: 187.19.109.71 
+					  
+	Porta: 57662 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar&msg=11 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: cc7554ec49bc1cad5feba0e8072198c1
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 12-08-2013 14:26:33 
+					  
+	End. IP: 187.19.109.71 
+					  
+	Porta: 57690 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar&msg=11 

@@ -1,0 +1,209 @@
+<?php
+include_once 'includes/head.php';
+$v_params = $this->getParams();
+$vetor = $v_params['vetor'];
+
+$vUsuario = array();
+$vArquivo = array();
+$vFoto = array();
+
+$contUsuario = 0;
+$contArquivo = 0;
+$contFoto = 0;
+
+foreach ($vetor as $item) {
+	
+	if (get_class($item) == "UsuarioModel") {
+		$vUsuario[$contUsuario] = $item;
+		$contUsuario++;
+	}
+		
+	if (get_class($item) == "ArquivoModel") {
+		$vArquivo[$contArquivo] = $item;
+		$contArquivo++;
+	}
+	
+	if (get_class($item) == "FotoModel") {
+		$vFoto[$contFoto] = $item;
+		$contFoto++;
+	}
+}
+?>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+    <?php include_once 'includes/lateral.php'; ?>
+	
+    <article id="painel">
+        <h1>Painel inicial</h1>
+			
+        <?php if (isset($_GET['msg']) != "") { ?>
+            <div id="mensagem" style="display:block;">
+                <?php 
+                    include_once 'lib/Mensagens.php';
+                    $msg = new Mensagens($_GET['msg']);
+                ?>
+            </div>
+        <?php } ?>
+        
+        <section id="painelAtalhos">
+        	  <nav>
+                <ul>
+                <?php 
+                if ($_SESSION['hashid'] == "cliente") { ?>
+                    <li><a class="relatorios" href="?controle=Arquivo&acao=listar">Relatórios</a></li>
+                    
+                    <li><a class="fotos" href="?controle=Foto&acao=listar">Fotos</a></li>
+                    
+                    <li><a class="estatisticas" href="#">Estatísticas</a></li>
+                    
+                    <li><a class="cadastro" href="?controle=Cliente&acao=manter&id=<?php echo $_SESSION['idCliente']; ?>">Meu Cadastro</a></li>
+                    
+                    <li><a class="suporte" href="?controle=Suporte&acao=manter&idFilial=<?php echo $_SESSION['idFilial']; ?>">Suporte</a></li>
+                <?php } else 
+                if ($_SESSION['hashid'] == "gerentefilial") { ?>
+                    <li><a class="relatorios" href="?controle=Arquivo&acao=listar">Relatórios</a></li>
+                    
+                    <li><a class="fotos" href="?controle=Foto&acao=listar">Fotos</a></li>
+                    
+                    <li><a class="estatisticas" href="#">Estatísticas</a></li>
+                    
+                    <li><a class="usuarios" href="?controle=Usuario&acao=listar">Usuários</a></li>
+                    
+                    <li><a class="clientes" href="?controle=Cliente&acao=listar">Clientes</a></li>
+                    
+                    <!-- <li><a class="filiais" href="?controle=Filial&acao=listar">Filiais</a></li> -->
+                    
+                    <!-- <li><a class="cadastro" href="#">Meu Cadastro</a></li> -->
+                    
+                    <li><a class="suporte" href="?controle=Suporte&acao=manter&idFilial=<?php echo $_SESSION['idFilial']; ?>">Suporte</a></li>
+                <?php } else 
+                if ($_SESSION['hashid'] == "superadmin") { ?>
+                	<li><a class="relatorios" href="?controle=Arquivo&acao=listar">Relatórios</a></li>
+                	
+                    <li><a class="fotos" href="?controle=Foto&acao=listar">Fotos</a></li>
+                    
+                    <li><a class="estatisticas" href="#">Estatísticas</a></li>
+                    
+                    <li><a class="usuarios" href="?controle=Usuario&acao=listar">Usuários</a></li>
+                    
+                    <li><a class="clientes" href="?controle=Cliente&acao=listar">Clientes</a></li>
+                    
+                    <li><a class="filiais" href="?controle=Filial&acao=listar">Filiais</a></li>
+                    
+                    <!-- <li><a class="cadastro" href="#">Meu Cadastro</a></li> -->
+                    
+                    <li><a class="suporte" href="?controle=Suporte&acao=manter">Suporte</a></li>
+                <?php } else
+                if ($_SESSION['hashid'] == "desenvolvedor") { ?>
+                	<li><a class="relatorios" href="?controle=Arquivo&acao=listar">Relatórios</a></li>
+                	
+                    <li><a class="fotos" href="?controle=Foto&acao=listar">Fotos</a></li>
+                    
+                    <li><a class="estatisticas" href="#">Estatísticas</a></li>
+                    
+                    <li><a class="usuarios" href="?controle=Usuario&acao=listar">Usuários</a></li>
+                    
+                    <li><a class="clientes" href="?controle=Cliente&acao=listar">Clientes</a></li>
+                    
+                    <li><a class="filiais" href="?controle=Filial&acao=listar">Filiais</a></li>
+                <?php } ?>
+                </ul>
+            </nav>
+        </section>
+        
+        <section id="painelRelatorios">
+            <h2>Últimos relatórios cadastrados</h2>
+            <?php //echo "<pre>";print_r($vetor); echo "</pre>";
+            		foreach ($vArquivo as $item) {
+            ?>
+            <a class="ultimos" class="relatorio" href="?controle=Arquivo&acao=baixar&id=<?php echo $item->getPkArquivo()?>"><?php echo $item->getDescricao(); ?></a>
+            
+            <?php	} ?>
+            <a class="todos" href="?controle=Arquivo&acao=listar">Ver todos »</a>
+            
+        </section>
+        
+        <section id="painelMeusdados">
+            <h2>Meus dados de acesso</h2>
+            <div>
+                <?php 
+				//echo "<pre>";print_r($vetor);echo "</pre>";
+				foreach ($vUsuario as $campos => $item) {
+						$pkUsuario = $item->getPkUsuario();
+						$nome = $item->getNome();
+						$cargo = $item->getCargo();
+						$telefone = $item->getTelefone();
+						$email = $item->getEmail();
+						$cpf = $item->getCpf();
+						
+						$perfil = $item->getNomePerfil();
+						$login = $item->getLogin();
+				}
+                ?>
+                
+                <table id="table" class="sortable">
+                	<thead>
+                		<tr>
+                			<th>Nome:</th>
+                			<td><?php echo $nome; ?></td>
+                		</tr>
+                		<tr>
+                			<th>Cargo:</th>
+                			<td><?php echo $cargo; ?></td>
+                		</tr>
+                		<tr>
+                			<th>Telefone:</th>
+                			<td><?php echo $telefone; ?></td>
+                		</tr>
+                		<tr>
+                			<th>E-mail:</th>
+                			<td><?php echo $email; ?></td>
+                		</tr>
+                		<tr>
+                			<th>CPF:</th>
+                			<td><?php echo $cpf; ?></td>
+                		</tr>
+                		<tr>
+                			<th>Perfil:</th>
+                			<td><?php echo $perfil; ?></td>
+                		</tr>
+                		<tr>
+                			<th>Usu&aacute;rio:</th>
+                			<td><?php echo $login; ?></td>
+                		</tr>
+                		
+                	</thead>
+                </table>
+            </div>
+            <a class="todos" href="?controle=DadosAcesso&acao=manter&id=<?php echo $pkUsuario; ?>">Alterar dados »</a>
+        </section>
+        
+        <section id="painelFotos">
+            <h2>Últimas fotos cadastradas</h2>
+            <div>
+            <?php foreach ($vFoto as $item) {
+            		$imgGrande = $item->getCaminhoFoto()."/".$item->getFoto().".".$item->getTipo();
+            		$mini = $item->getMiniatura();
+				
+				$title = "";
+				$inclusao = implode("/", array_reverse(explode("-",$item->getDtInclusao())));
+				
+				if ($_SESSION['hashid'] == "superadmin" || $_SESSION['hashid'] == "gerentefilial" || $_SESSION['hashid'] == "desenvolvedor") {
+				 	$title .= "<br /><strong>Cliente:</strong> ".$item->getNomeCliente();
+					$title .= "<br /><strong>Incluso:</strong> ".$inclusao;
+				}
+				
+				$title .= " - Loja: ".$item->getLoja()." <br />Coordenador: ".$item->getCoordenador()." <br />Promotor: ".$item->getPromotor();
+            	?>
+                	<a class="foto" href="<?php echo $imgGrande; ?>" data-lightbox="roadtrip" title="<?php echo $title; ?>">
+                		<img src="<?php echo $mini; ?>" width="160" height="120" />
+                	</a>
+            <?php } ?>
+             </div>
+            <a class="todos" href="?controle=Foto&acao=listar">Ver todas »</a>
+        </section>
+        
+    </article>
+</body>
+</html>

@@ -1,0 +1,528 @@
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:55:14 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61191 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:55:21 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61272 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:55:24 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61282 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:55:41 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61424 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:55:41 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61425 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:55:45 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61470 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Cliente&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:55:47 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61474 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:56:15 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61502 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:56:15 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61503 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:56:23 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61563 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Usuario&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:56:25 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61564 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=FilialCliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:56:31 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61576 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=FilialCliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:56:31 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61577 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=FilialCliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:56:34 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61578 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=FilialCliente&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:56:35 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61579 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioCliente&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:56:40 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61582 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioCliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 55bd33547ed942ee070667f3a2c9d1df
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:56:40 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61583 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=UsuarioCliente&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 7737dc5443f2a3ce2665883713bc7ae9
+					  
+ Nome da sessão: PHPSESSID_AA
+					  
+ Usuário: BBBBBBB (aa)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 24/09/2013 10:56:51 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61679 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 7737dc5443f2a3ce2665883713bc7ae9
+					  
+ Nome da sessão: PHPSESSID_AA
+					  
+ Usuário: BBBBBBB (aa)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 24/09/2013 10:56:54 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61680 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 7737dc5443f2a3ce2665883713bc7ae9
+					  
+ Nome da sessão: PHPSESSID_AA
+					  
+ Usuário: BBBBBBB (aa)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 24/09/2013 10:56:54 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61681 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 7737dc5443f2a3ce2665883713bc7ae9
+					  
+ Nome da sessão: PHPSESSID_AA
+					  
+ Usuário: BBBBBBB (aa)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 24/09/2013 10:56:56 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61682 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 7737dc5443f2a3ce2665883713bc7ae9
+					  
+ Nome da sessão: PHPSESSID_AA
+					  
+ Usuário: BBBBBBB (aa)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 24/09/2013 10:56:58 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61683 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Arquivo&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 7737dc5443f2a3ce2665883713bc7ae9
+					  
+ Nome da sessão: PHPSESSID_AA
+					  
+ Usuário: BBBBBBB (aa)
+					  
+ Tipo de acesso: Cliente 
+					  
+ Data: 24/09/2013 10:56:58 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61684 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: aa4ef448fb380889ab7b8832f88bc5e7
+					  
+ Nome da sessão: PHPSESSID_ADMIN
+					  
+ Usuário: Super Admin (admin)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 24/09/2013 10:57:04 
+					  
+	End. IP: 177.97.174.242 
+					  
+	Porta: 61704 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 

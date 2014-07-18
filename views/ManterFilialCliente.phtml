@@ -1,0 +1,65 @@
+<?php
+$v_params = $this->getParams();
+$objeto = $v_params['objeto'];
+
+include_once 'includes/head.php';
+?>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Cliente por filial</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php 
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+		<?php } ?>
+			
+			<div id="formulario">
+				
+				<form method="post">
+					
+					<label for="id">Id:</label>
+					<input type="text" name="id" size="5" id="id" value="<?php echo $objeto->getPkFilialCliente()?>" disabled="disabled" />
+					
+					<br />
+					<label for="idcliente">Cliente:</label>
+					<?php  
+						 include_once 'controllers/SelectorController.php';
+						 $seletor = new SeletorController();
+						 echo $seletor->seletores(7,$objeto->getPkdoCliente());
+					?>
+
+					<br />
+					<label for="idfilial">Filial:</label>
+					<?php  
+						 $seletor = new SeletorController();
+						 echo $seletor->seletores(6,$objeto->getPkdaFilial());
+					?>
+					
+					<br />
+					<label for="status">Status:</label>
+					<select name="status" required >
+						<option value="-1" selected="selected">Selecione:</option>
+						<option value="1" <?php if ($objeto->getVinculoStatus() == 1) { echo "selected='selected'";} else { echo ""; } ?>>Ativo</option>
+						<option value="0" <?php if ($objeto->getVinculoStatus() == 0) { echo "selected='selected'";} else { echo ""; } ?>>Inativo</option>
+					</select>
+
+					<div id="botoesManter">
+						<input type='hidden' name='controle' value='FilialCliente'>
+						<input type='hidden' name='acao' value='manter'>
+						<input type='hidden' name='id' value='<?php echo $objeto->getPkFilialCliente()?>'>
+						
+						<a href="?controle=FilialCliente&acao=listar">Cancelar</a>&nbsp;&nbsp;
+						<button type='submit' class='btSalvar'>Salvar</button>
+					</div>
+				</form>
+			</div>
+	</article>
+</body>
+</html>

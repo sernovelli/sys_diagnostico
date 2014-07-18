@@ -1,0 +1,2772 @@
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 08:15:22 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 49613 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 08:15:24 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 49619 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 08:15:25 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 49618 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 08:15:26 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 49618 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 08:15:27 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 49618 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:30:18 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50045 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:30:42 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50068 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:32:34 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50074 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:32:37 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50074 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:32:38 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50074 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:32:57 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50089 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:32:57 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50089 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:32:58 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50089 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:40:29 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50115 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:40:30 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50115 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:40:34 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50115 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:40:35 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50115 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:40:37 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50115 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=4 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:40:39 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50115 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:44:28 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50130 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:44:30 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50130 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:44:44 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50136 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:44:44 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50136 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:45:43 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50139 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:45:46 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50139 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:45:48 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50139 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=4 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:45:50 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50139 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:45:52 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50139 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=4 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 09:52:08 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50220 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:08:08 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50271 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:08:26 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50290 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:09:11 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50294 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:09:12 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50294 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:09:33 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50302 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:10:26 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50310 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:10:27 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50310 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:10:28 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50312 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:10:31 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50312 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=36 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:10:35 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50312 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:10:36 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50312 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:10:41 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50312 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=3 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:10:44 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50312 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:10:45 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50312 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:10:51 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50326 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:11:04 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50329 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:11:13 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50332 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=3 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:11:16 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50332 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=4 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:11:17 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50332 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=3 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:11:20 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50332 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=4 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:11:22 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50332 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:11:24 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50332 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=4 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:11:25 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50332 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:11:26 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50332 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:25:13 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50365 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=3 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:25:18 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50365 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:25:34 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50376 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:25:36 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50376 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:25:42 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50380 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:25:44 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50380 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:26:21 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50384 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:26:23 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50384 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:26:24 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50384 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso:  
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:26:26 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50384 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter&id=93 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:29:35 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50397 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:29:37 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50397 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:40:55 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50431 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:40:56 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50431 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:41:13 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50455 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:41:13 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50455 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:42:40 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50459 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:42:42 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50459 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=3 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:42:45 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50459 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:42:48 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50459 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=3 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:42:51 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50459 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:42:54 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50459 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=4 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:42:56 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50459 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:42:59 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50459 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=4 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:43:01 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50459 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 10:43:05 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50459 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=4 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 11:43:59 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50605 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 11:44:00 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50605 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 11:45:00 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50639 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 11:45:10 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50646 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=36 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 11:45:11 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50646 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 11:45:25 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50651 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 11:47:56 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50657 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=36 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 11:48:33 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50665 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=36 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 11:50:15 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50676 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=36 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 11:50:22 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 50681 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:22:18 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52195 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&msg=36 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:23:01 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52209 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:23:02 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52209 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:26:16 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52226 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:26:55 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52234 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:29:26 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52253 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:48:30 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52351 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:48:32 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52351 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:50:11 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52361 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:50:38 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52364 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:50:39 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52364 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:51:51 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52368 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:51:52 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52368 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:52:09 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52371 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:58:19 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52382 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:58:25 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52398 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: iklret1b8hk7p8ldvbbo53oe00
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 14:58:46 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52403 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 9u0pugf61o514nu54ela15d5b5
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:15:10 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52490 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 9u0pugf61o514nu54ela15d5b5
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:15:13 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52493 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 9u0pugf61o514nu54ela15d5b5
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:15:19 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52500 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 9u0pugf61o514nu54ela15d5b5
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:16:21 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52507 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=3 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 9u0pugf61o514nu54ela15d5b5
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:16:22 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52507 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 9u0pugf61o514nu54ela15d5b5
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:16:43 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52512 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 9u0pugf61o514nu54ela15d5b5
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:17:50 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52516 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=manter 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8e42j1tgiakl2oih7cipr06v56
+					  
+ Nome da sessão: PHPSESSID_DESENV
+					  
+ Usuário: Desenvolvedor (DESENV)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:19:16 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52526 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8e42j1tgiakl2oih7cipr06v56
+					  
+ Nome da sessão: PHPSESSID_DESENV
+					  
+ Usuário: Desenvolvedor (DESENV)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:19:18 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52526 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8e42j1tgiakl2oih7cipr06v56
+					  
+ Nome da sessão: PHPSESSID_DESENV
+					  
+ Usuário: Desenvolvedor (DESENV)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:19:29 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52527 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 8e42j1tgiakl2oih7cipr06v56
+					  
+ Nome da sessão: PHPSESSID_DESENV
+					  
+ Usuário: Desenvolvedor (DESENV)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 15:19:31 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 52527 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: q7ndsk7mmu5u5lhmlisug5m150
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 17:14:14 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 53645 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: q7ndsk7mmu5u5lhmlisug5m150
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 17:14:16 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 53645 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /GeraArquivos/index.php 
+					  
+	Origem do acesso: http://localhost/GeraArquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: qifvp68ka01c8u30i5v568heq6
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 23:20:33 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 54520 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /geraarquivos/index.php 
+					  
+	Origem do acesso: http://localhost/geraarquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: qifvp68ka01c8u30i5v568heq6
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 23:20:36 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 54525 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /geraarquivos/index.php 
+					  
+	Origem do acesso: http://localhost/geraarquivos/?controle=Inicio&acao=logar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: qifvp68ka01c8u30i5v568heq6
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 23:20:44 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 54526 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /geraarquivos/index.php 
+					  
+	Origem do acesso: http://localhost/geraarquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: qifvp68ka01c8u30i5v568heq6
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 23:20:50 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 54529 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /geraarquivos/index.php 
+					  
+	Origem do acesso: http://localhost/geraarquivos/?controle=Foto&acao=listar&pag=2 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: qifvp68ka01c8u30i5v568heq6
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 23:20:53 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 54529 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /geraarquivos/index.php 
+					  
+	Origem do acesso: http://localhost/geraarquivos/?controle=Foto&acao=listar&pag=1 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: qifvp68ka01c8u30i5v568heq6
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 23:20:56 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 54529 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /geraarquivos/index.php 
+					  
+	Origem do acesso: http://localhost/geraarquivos/?controle=Foto&acao=listar 
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: qifvp68ka01c8u30i5v568heq6
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (GERENTE1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 11/09/2013 23:20:58 
+					  
+	End. IP: 127.0.0.1 
+					  
+	Porta: 54529 
+					  
+	Método de acesso: GET 
+					  
+	URL da Origem: /geraarquivos/index.php 
+					  
+	Origem do acesso: http://localhost/geraarquivos/?controle=Arquivo&acao=listar 

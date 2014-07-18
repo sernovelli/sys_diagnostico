@@ -1,0 +1,56 @@
+<?php
+include_once 'includes/head.php';
+?>
+<script type="text/javascript">
+ jQuery(document).ready(function($) {
+   $("#inicio").mask("99/99/9999");
+   $("#final").mask("99/99/9999");
+});
+</script>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Estat&iacute;sticas - Fotos Postadas</h1>
+			
+			<div id="formulario">
+				
+				<form method="post" target="_blank">
+					
+					<label for="inicio">Data Inicial:</label>
+					<input type="text" name="inicio" id="inicio" value="<?php echo date("d/m/Y") ?>" />
+
+					<label for="final">Data Final:</label>
+					<input type="text" name="final" id="final" value="<?php echo date("d/m/Y") ?>" />
+					
+					<br />
+					<label for="idcliente">Cliente:</label>
+					<?php 
+						include_once 'controllers/SelectorController.php';
+						$seletor = new SeletorController();
+						echo $seletor->seletores(16);
+					?>
+
+					<br />
+					<label for="idfilial">Filial:</label>
+					<?php  
+						$seletor = new SeletorController();
+						echo $seletor->seletores(17);
+					?>
+					
+					<br />
+					<div id="botoesManter">
+						<input type='hidden' name='controle' value='Estatisticas' />
+						<input type='hidden' name='acao' value='gerar' />
+						<!-- <a href="?controle=Estatisticas&acao=listar">Cancelar</a>&nbsp;&nbsp; -->
+
+						<button type='submit' class='btSalvar'>Gerar</button>
+					</div>
+				</form>
+				
+			</div>
+	</article>
+</body>
+</html>

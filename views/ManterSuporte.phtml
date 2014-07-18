@@ -1,0 +1,98 @@
+<?php
+$v_params = $this->getParams();
+$objeto = $v_params['objeto'];
+
+//echo "<pre>"; print_r($this->getParams()); echo "</pre>"; break;
+
+include_once 'includes/head.php';
+?>
+<script type="text/javascript">
+ jQuery(document).ready(function($) {
+   $("#telefone").mask("(99)9999-9999");
+});
+</script>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Suporte</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php 
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+		<?php } ?>
+			
+			<div id="formulario">
+				
+				<form method="post">
+					<table cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						<td><h3>Dados do Destinat&aacute;rio</h3></td>
+						<td style="width: 60px;">&nbsp;&nbsp;&nbsp;</td>
+						<td><h3>Dados do Remetente</h3></td>
+					</tr>
+					<tr>
+						<td>
+							<!-- Dados do gerente da filial -->
+							<label for="nome">Para:</label>
+							<input type="text" name="nome" id="nome" value="<?php echo $objeto->getNome()?>" disabled="disabled" />
+							<input type="hidden" name="nomeGerente" id="nomeGerente" value="<?php echo $objeto->getNome()?>" />
+		
+							<br />
+							<label for="cargo">Cargo:</label>
+							<input type="text" name="cargo" id="cargo" value="<?php echo $objeto->getCargo()?>" disabled="disabled" />
+							
+							<br />
+							<label for="telefone">Telefone:</label>
+							<input type="text" name="telefone" id="telefone" value="<?php echo $objeto->getTelefone()?>" disabled="disabled" />
+							
+							<br />
+							<label for="email">E-mail:</label>
+							<input type="text" name="email" id="email" value="<?php echo $objeto->getEmail()?>" disabled="disabled" />
+							<input type="hidden" name="emailGerente" id="emailGerente" value="<?php echo $objeto->getEmail()?>" />
+							
+							<!-- Dados do cliente logado -->
+							<input type="hidden" name="remetente" id="remetente" value="<?php echo $_SESSION['nomeUsuario'] ?>" />
+							<input type="hidden" name="emailRemetente" id="emailRemetente" value="<?php echo $_SESSION['email'] ?>" />
+							<input type="hidden" name="telRemetente" id="telRemetente" value="<?php echo $_SESSION['telefone'] ?>" />
+							<input type="hidden" name="filial" id="filial" value="<?php echo $_SESSION['filial'] ?>" />
+							<input type="hidden" name="pkFilial" id="pkFilial" value="<?php echo $_SESSION['idFilial'] ?>" />
+						</td>
+						<td style="width: 60px;">&nbsp;&nbsp;&nbsp;</td>
+						<td>	
+							<label for="de">De:</label>
+							<input type="text" name="de" id="de" value="<?php echo $_SESSION['nomeUsuario'] ?>" />
+							
+							<br />
+							<label for="filial">Filial:</label>
+							<input type="text" name="filial" id="filial" value="<?php echo $_SESSION['filial'] ?>" disabled="disabled" />
+
+							<br />
+							<label for="assunto">Assunto:</label>
+							<input type="text" name="assunto" id="assunto" value="" required/>
+							
+							<br />
+							<label for="msgSuporte">Mensagem:</label>
+							<textarea name="msgSuporte" id="msgSuporte" cols="20" rows="10" required></textarea>
+							
+							<div id="botoesManter">
+								<input type='hidden' name='controle' value='Suporte'>
+								<input type='hidden' name='acao' value='manter'>
+								<input type='hidden' name='id' value='<?php echo $objeto->getPkUsuario()?>'>
+								
+								<a href="?controle=Inicio&acao=dashboard">Cancelar</a>&nbsp;&nbsp;
+								<button type='submit' class='btSalvar'>Enviar</button>
+							</div>
+						</td>
+					</tr>
+					</table>
+				</form>
+			</div>
+	</article>
+</body>
+</html>

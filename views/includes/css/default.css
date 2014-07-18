@@ -1,0 +1,215 @@
+/* ================================================ */
+/* ARQUIVO DE ESTILOS - SISTEMA DIAGNOSTIC DINÂMICA */
+/* CRIAÇÃO: ALKANTÁRA - www.alkantara.com.br        */
+/* ================================================ */
+/*span,table,,tr,th,td*/html,body,div,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,caption,tbody,tfoot,thead{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+.clear, .clr{clear:both;display:block;overflow:hidden;visibility:hidden;width:0;height:0}
+/* ======================================================================== */
+/* ============================================================= TIPOGRAFIA */
+@font-face { font-family: 'myri'; src: url('myriadpro-regular.eot'); src: url('myriadpro-regular.eot') format('embedded-opentype'), url('myriadpro-regular.woff') format('woff'), url('myriadpro-regular.ttf') format('truetype'), url('myriadpro-regular.svg#MyriadProRegular') format('svg'); }
+@font-face { font-family: 'myrib'; src: url('myriadpro-bold.eot'); src: url('myriadpro-bold.eot') format('embedded-opentype'), url('myriadpro-bold.woff') format('woff'), url('myriadpro-bold.ttf') format('truetype'), url('myriadpro-bold.svg#MyriadProBold') format('svg'); }
+a { color: #244B6B; text-decoration: none; transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; -ms-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out; }
+a:hover { color: #900; transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; -ms-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out; }
+h1 { color: #212121; font-family: 'myrib'; font-size: 36px; font-weight: normal; }
+h2 { color: #212121; font-family: 'myrib'; font-size: 24px; font-weight: normal; }
+/* ======================================================================== */
+/* ========================================================= ESTILOS COMUNS */
+/* ======================================================================== */
+html { width: 100%; height: 100%; overflow: hidden; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+body { width: 100%; height: 100%; padding: 50px 0 0 250px; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+body { background: #333; font-family: 'myri'; font-size: 15px; }
+/* TOPO */
+header { width: 100%; height: 50px; margin-top: -50px; position: relative; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+/**/
+header div.boasvindas { width: auto; height: 50px; position: absolute; right: 230px; top: 0; color: #D1D1D1; line-height: 50px; }
+/**/
+header nav { width: 130px; height: 50px; position: absolute; right: 80px; top: 0; background: #1E1E1E; }
+header nav ul {}
+header nav ul li { padding: 0 10px; position: relative; color: #898989; cursor: pointer; font-size: 14px; line-height: 50px; }
+header nav ul li span { display: block; width: 16px; height: 8px; position: absolute; top: 22px; right: 10px; background: url(../images/sprites.png) no-repeat -126px -391px; transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; -ms-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out; } 
+header nav ul li span.open { background: url(../images/sprites.png) no-repeat -126px -402px; transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; -ms-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out; }
+header nav ul li ul { display: none;
+ position: absolute; top: 40px; left: -35px; z-index: 1; background: #444; box-shadow: 0 -1px 0 rgba(255,255,255,.3);
+ border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; }
+header nav ul li ul li { float: none; display: block; border: 0; margin-bottom: 5px; line-height: 2; box-shadow: 0 1px 0 #111, 0 2px 0 #666; }
+header nav ul li ul li a { padding-right: 10px; color: #D1D1D1; }
+header nav ul li ul li a:hover { padding-left: 10px; padding-right: 0; color: #FFF; }
+/**/
+header a#sair { display: block; width: 40px; padding-top: 24px; position: absolute; right: 20px; top: 0; background: url(../images/sprites.png) no-repeat -355px -2px; color: #D1D1D1; font-size: 12px; line-height: 26px; }
+/* LATERAL */
+aside { width: 235px; height: 100%; min-height: 670px; padding-left: 15px; position: absolute; top: 0; left: 0; overflow: auto; }
+aside #logo { display: block; width: 230px; height: 75px; background: url(../images/sprites.png) no-repeat -9px 6px; text-indent: -999999px; }
+aside #logo:hover { background-position: -9px 10px; }
+/**/
+aside nav { width: 220px; margin-top: 10px; }
+aside nav a { display: block; padding-left: 25px; color: #898989; line-height: 22px; }
+aside nav a:hover { padding-left: 35px; color: #FFF; }
+aside nav h3 { height: 22px; margin: 10px 0 5px 0; background: #1E1E1E url(../images/sprites.png) no-repeat 193px -384px; font-size: 14px; font-weight: normal; line-height: 22px; }
+aside nav h3 a { display: block; padding-left: 10px; color: #898989; }
+aside nav h3 a:hover { padding-left: 10px; }
+/**/
+aside #akt { color: #5B5B5B; font-size: 12px; }
+aside #akt:hover { color: #FFF; }
+/* CONTEÚDO */
+article { width: 100%; min-width: 690px; height: 100%; min-height: 560px; padding: 30px; background: #DDD; color: #333; -webkit-border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; border-top-left-radius: 15px; -webkit-box-shadow: -4px -4px 3px rgba(0, 0, 0, 0.5); -moz-box-shadow: -4px -4px 3px rgba(0, 0, 0, 0.5); box-shadow: -4px -4px 3px rgba(0, 0, 0, 0.5); -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; overflow: auto; }
+/* MENSAGENS */
+#msgSucesso { padding: 10px; margin: 15px 5px; background: #A6CEA3; color: #0A3809; font-size: 18px; }
+#msgSucesso span { display: block; width: 22px; height: 22px; float: left; position: relative; margin-right: 10px; background: url(../images/sprites.png) no-repeat -1px -436px; }
+#msgErro { padding: 10px; margin: 15px 5px; background: #CC8585; color: #5B0000; font-size: 18px; }
+#msgErro span { display: block; width: 22px; height: 22px; float: left; position: relative; margin-right: 10px; background: url(../images/sprites.png) no-repeat -31px -436px; }
+#msgAlerta { padding: 10px; margin: 15px 5px; background: #CCCE7C; color: #663D02; font-size: 18px; }
+#msgAlerta span { display: block; width: 22px; height: 22px; float: left; position: relative; margin-right: 10px; background: url(../images/sprites.png) no-repeat -59px -437px; }
+/* ======================================================================== */
+/* ================================================================ TABELAS */
+/* ======================================================================== */
+table#table td { width: 72px; }
+table#table td a.linkOpcoes { display: block; width: 16px; height: 16px; margin: 1px 4px; float: left; position: relative; background-image: url(../images/sprites.png); background-repeat: no-repeat; text-indent: -999999px; }
+table#table td a.icoPublicar { background-position: -357px -221px; }
+table#table td a.icoDespublicar { background-position: -331px -221px; }
+table#table td a.icoEditar { background-position: -328px -249px; }
+table#table td a.icoExcluir { background-position: -359px -250px; }
+
+table#table td a.icoBaixarArquivo { background-position: -298px -475px; }
+table#table td a.icoBaixarFoto { background-position: -229px -476px; }
+table#table td a.icoVerArquivo { background-position: -265px -477px; }
+/**/
+.sortable { width:99%; margin:0 auto 15px; border-left: 2px solid #DDD; border-top:2px solid #DDD; border-bottom:none; }
+.sortable thead th { padding: 5px 15px; background: #212121; border: 2px solid #DDD; border-right: none; color: #D1D1D1; cursor: pointer; font-size: 14px; font-weight: normal; text-align: left; }
+.sortable td { padding: 5px 17px; border-bottom: 2px solid #DDD; vertical-align: middle; }
+.sortable .desc, .sortable .asc { background: #000; }
+.sortable .evenrow td, .sortable .oddrow td { background: #B7B7B7; }
+.sortable td.evenselected, .sortable td.oddselected { background: #CCC; }
+/**/
+#controls { width: 99%; height: 20px; padding-bottom: 10px; margin: 0 auto; position: relative; color: #666; font-weight: bold; font-size: 13px; line-height: 20px; }
+#perpage { float: left; width: 20.83%; }
+#perpage select { float: left; }
+#perpage span { float: left; margin: 2px 0 0 5px; }
+#navigation { float: left; width: 200px; margin-left: -100px; position: absolute; top: 0; left: 50%; text-align: center; }
+#navigation img { cursor: pointer; }
+#text { float: right; width: 20%; text-align: right; margin-top: 2px; }
+/* FOTOS */
+table.fotos td { width: auto !important; height: 120px; padding: 10px; }
+table.fotos td:hover { background: #ededed; }
+a.foto { display: block; width: 160px; height: 120px; margin-right: 10px; float: left; position: relative; }
+div#lightbox div.lb-container{ max-height: 50%; }
+/* ======================================================================== */
+/* ============================================================ FORMULÁRIOS */
+/* ======================================================================== */
+form { width: 370px; }
+form label { display: block; margin-top: 10px; }
+form select,
+form input,
+form textarea { color: #000; font-family: Arial; line-height: 1.5; text-transform: uppercase; }
+form textarea,
+form select { width: 370px; height: 30px; padding: 5px 10px; border: 1px #CCC solid; -webkit-border-radius: 7px; -moz-border-radius: 7px; border-radius: 7px; }
+    form select:hover { border: 1px #222 solid; }
+    form select:focus { border: 2px #3F96FF solid; }
+form input[type=text],
+form input[type=password] { width: 350px; height: 20px; padding: 5px 10px; border: 1px #CCC solid; -webkit-border-radius: 7px; -moz-border-radius: 7px; border-radius: 7px; }
+    form input[type=text]:hover,
+    form input[type=password]:hover { border: 1px #222 solid; }
+    form input[type=text]:focus,
+    form input[type=password]:focus { border: 2px #3F96FF solid; }
+form #botoesManter { margin-top: 25px; }
+form #botoesManter input[type=submit],
+form #botoesManter button[type=submit] { width: 70px; height: 30px; float: right; background: url(../images/sprites.png) no-repeat -184px -379px; border: none; color: #FFF; cursor: pointer; font-size: 16px; line-height: 30px; text-shadow: 1px 1px 3px #000; -webkit-border-radius: 7px; -moz-border-radius: 7px; border-radius: 7px; }
+form #botoesManter a { color: #333; display: block; height: 30px; line-height: 30px; float: left; }
+form #botoesManter a:hover { color: #900; }
+/* FILTROS */
+section#opcoes { width: 100%; height: 40px; margin: 10px 0; position: relative; }
+section#opcoes div#filtros { width: auto; margin-top: 10px; float: left; position: relative; }
+section#opcoes a#imprimir,
+section#opcoes a#exportar { display: block; width: 16px; height: 16px; position: absolute; top: 12px; background: url(../images/sprites.png) no-repeat; text-indent: -999999px; }
+section#opcoes a#imprimir { right: 260px; background-position: -130px -431px; }
+section#opcoes a#exportar { right: 240px; background-position: -152px -431px; }
+section#opcoes a#novo { display: block; width: 196px; height: 40px; padding: 0 15px; float: right; position: relative; background: url(../images/sprites.png) no-repeat -174px -379px; color: #DDD; font-family: 'myrib'; font-size: 14px; line-height: 40px; text-shadow: 1px 1px 3px #000; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
+section#opcoes a#novo:hover { background-position: -174px -419px; color: #FFF; }
+section#opcoes form { width: auto; }
+section#opcoes form label { display: block; width: auto; height: 22px; margin: 0 5px 0 0; float: left; position: relative; line-height: 22px; }
+section#opcoes form select { width: 120px; height: 24px; padding: 2px 6px; border: 1px #CCC solid; text-transform: capitalize; -webkit-border-radius: 7px; -moz-border-radius: 7px; border-radius: 7px; }
+    section#opcoes form select:hover { border: 1px #222 solid; }
+    section#opcoes form select:focus { border: 1px #3F96FF solid; }
+section#opcoes form input[type=text],
+section#opcoes form input[type=password] { width: 108px; height: 18px; padding: 2px 6px; margin-right: 10px; float: left; position: relative; border: 1px #CCC solid; -webkit-border-radius: 7px; -moz-border-radius: 7px; border-radius: 7px; }
+    section#opcoes form input[type=text]:hover,
+    section#opcoes form input[type=password]:hover { border: 1px #222 solid; }
+    section#opcoes form input[type=text]:focus,
+    section#opcoes form input[type=password]:focus { border: 1px #3F96FF solid; }
+section#opcoes form input[type=submit] { width: auto; height: 22px; padding: 2px 7px; position: relative; background: #F5F5F5; border: #666; color: #000; cursor: pointer; font-size: 12px; line-height: 20px; text-transform: capitalize; }
+
+/* ======================================================================== */
+/* ================================================================= PAINEL */
+
+@media only screen and (min-width: 1401px) { article#painel section { width: 510px; min-height: 280px; } }
+@media only screen and (max-width: 1400px) { article#painel section { width: 470px; min-height: 380px; } }
+@media only screen and (max-width: 1024px) { article#painel section { width: 100%; min-height: 200px; } }
+article#painel section { margin: 0 35px 35px 0; float: left; position: relative; }
+article#painel h1 { margin-bottom: 20px; }
+#painelAtalhos {}
+    #painelAtalhos nav {}
+    #painelAtalhos nav ul {}
+    #painelAtalhos nav ul li { width: 106px; height: 106px; margin: 10px; float: left; position: relative; }
+    #painelAtalhos nav ul li a { display: block; width: 106px; height: 36px; padding-top: 70px; background: #D3D3D3 url(../images/sprites.png) no-repeat; color: #000; text-align: center; -webkit-border-radius: 53px; -moz-border-radius: 53px; border-radius: 53px; }
+    #painelAtalhos nav ul li a:hover { background: #BBB url(../images/sprites.png) no-repeat; }
+        #painelAtalhos nav ul li a.relatorios { background-position: 0 -76px; }
+        #painelAtalhos nav ul li a.fotos { background-position: -104px -72px; }
+        #painelAtalhos nav ul li a.estatisticas { background-position: -214px -71px; }
+        #painelAtalhos nav ul li a.usuarios { background-position: 0 -179px; }
+        #painelAtalhos nav ul li a.clientes { background-position: -107px -179px; }
+        #painelAtalhos nav ul li a.filiais { background-position: -216px -180px; }
+        #painelAtalhos nav ul li a.cadastro { background-position: 0 -284px; }
+        #painelAtalhos nav ul li a.suporte { background-position: -107px -278px; }
+
+#painelRelatorios { }
+    #painelRelatorios h2 { margin-bottom: 15px; } 
+    #painelRelatorios a.ultimos { display: block; width: 100%; height: 35px; padding: 0 10px; margin-bottom: 2px; background: #D3D3D3; color: #333; line-height: 35px; }
+    #painelRelatorios a.ultimos:hover { background: #BBB; }
+    #painelRelatorios a.todos { display: block; margin: 5px 0; float: right; position: relative; color: #244B6B; }
+    #painelRelatorios a.todos:hover { color: #900; }
+
+#painelMeusdados { }
+    #painelMeusdados h2 { margin-bottom: 15px; } 
+    #painelMeusdados div { padding: 20px; background: #D3D3D3; color: #333; } 
+
+#painelFotos { }
+    #painelFotos h2 { margin-bottom: 15px; } 
+    #painelFotos div { padding: 20px; background: #D3D3D3; color: #333; }
+    #painelFotos a.foto { padding: 0 5px; }
+    #painelFotos a.todos { display: block; margin: 5px 0; float: right; position: relative; color: #244B6B; }
+    #painelFotos a.todos:hover { color: #900; }
+
+/* ======================================================================== */
+/* ============================================================= TELA LOGIN */
+body.login { padding: 0; background: #1E1E1E; color: #D1D1D1; }
+body.login article { width: 360px !important; height: 380px !important; min-width: 360px; min-height: 380px; padding: 0; margin: -190px 0 0 -180px; position: absolute; top: 50%; left: 50%; background: transparent; color: #D1D1D1; overflow: hidden; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; }
+body.login article header { width: 100%; height: 80px; margin-top: 0; background: url(../images/login/logo-login.png) no-repeat 50% 50%; text-indent: -999999px; }
+body.login article section { padding: 20px 15px; margin: 10px 0 10px 0; background: #333; }
+body.login article section p { margin-bottom: 20px; }
+body.login article section form select,
+body.login article section form input,
+body.login article section form textarea { text-transform: none; }
+body.login article section form label { display: block; width: 60px; height: 28px; margin: 3px; float: left; position: relative; line-height: 28px; }
+body.login article section form select { width: 190px; height: 28px; padding: 5px; margin: 3px; background: #1E1E1E url(../images/login/select-login.png) no-repeat right 50%; border: 0; border-radius: 0; color: #D1D1D1; line-height: 1; -webkit-appearance: none; }
+body.login article section form input,
+body.login article section form select { font-family: Arial; }
+body.login article section form input[type=text],
+body.login article section form input[type=password] { width: 180px; height: 28px; padding: 0 5px; margin: 3px; float: left; position: relative; background: #1E1E1E; border: none; color: #D1D1D1; line-height: 28px; }
+body.login article section form a { color: #D1D1D1; font-size: 10px; font-style: italic; line-height: 28px; }
+body.login article section form input[type=submit] { width: 72px; height: 28px; margin: 3px 70px; float: right; position: relative; background: #1E1E1E; border: none; color: #D1D1D1; cursor: pointer; }
+body.login article footer a.alkantara { display: block; float: left; position: relative; color: #565656; font-size: 13px; font-style: italic; }
+body.login article footer a.problema { display: block; float: right; position: relative; color: #D1D1D1; }
+body.login article footer a:hover { color: #f5f5f5; }
+body.login article footer span { display: block; padding-top: 30px; color: #333; text-align: center; }
+body.login article #mensagem { width: 290px; min-height: 26px; padding: 5px 5px 5px 35px; margin-bottom: 20px; background: #2D0A0A url(../images/login/mensagem.png) no-repeat 5px 5px; line-height: 26px; }
+/* POP PROBLEMAS */
+body.login #formpop { display: none; width: 495px; min-height: 200px; max-height: 650px; padding: 30px 20px; position: relative; background: #333; overflow: auto; }
+body.login #formpop a { display: block; position: absolute; top: 15px; right: 15px; color: #D1D1D1; font-size: 15px; }
+body.login #formpop a:hover { color: #FFF; }
+body.login #formpop h3 { margin-bottom: 10px; font-size: 28px; }
+body.login #formpop form { width: 100%; margin-top: 20px; }
+body.login #formpop form input,
+body.login #formpop form textarea { font-family: Arial; }
+body.login #formpop form input[type=text],
+body.login #formpop form input[type=password] { width: 230px; height: 28px; padding: 0 5px; margin: 3px; float: left; position: relative; background: #1E1E1E; border: none; color: #D1D1D1; line-height: 28px; }
+body.login #formpop form textarea { width: 476px; height: 100px; padding: 5px; margin: 3px; float: left; position: relative; background: #1E1E1E; border: none; color: #D1D1D1; line-height: 28px; }
+body.login #formpop form input[type=submit] { width: 72px; height: 28px; margin: 3px 6px; float: right; position: relative; background: #1E1E1E; border: none; color: #D1D1D1; cursor: pointer; }

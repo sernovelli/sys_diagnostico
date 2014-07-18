@@ -1,0 +1,72 @@
+<?php
+$v_params = $this->getParams();
+$objeto = $v_params['objeto'];
+
+//print_r($v_perfis); break;
+
+include_once 'includes/head.php';
+?>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Item de Menu</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php 
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+        <?php } ?>
+			
+			<div id="formulario">
+				
+				<form method="post">
+					
+					<label for="id">Id:</label>
+					<input type="text" name="id" size="5" id="id" value="<?php echo $objeto->getPkMenu()?>" disabled="disabled" />
+					
+					<label for="menu">Menu:</label>
+					<input type="text" name="menu" id="menu" value="<?php echo $objeto->getMenu()?>" required />
+					
+					<label for="url">URL:</label>
+					<input type="text" name="url" id="url" value="<?php echo $objeto->getUrl()?>" required />
+
+					<br />
+					<label for="menuAtivo">Status:</label>
+					<!-- <input type="text" name="menuAtivo" id="menuAtivo" value="<?php echo $objeto->getMenuAtivo()?>" />-->
+					<select name="menuAtivo" id="menuAtivo">
+						<option value="-1" selected="selected">Selecione:</option>
+						<option value="1" <?php if ($objeto->getMenuAtivo() == 1) { echo "selected='selected'";} else { echo ""; } ?>>Ativo</option>
+						<option value="2" <?php if ($objeto->getMenuAtivo() == 2) { echo "selected='selected'";} else { echo ""; } ?>>Inativo</option>
+					</select>
+					
+					<br />
+					<label for="ordem">Ordem:</label>
+					<input type="text" name="ordem" id="ordem" value="<?php echo $objeto->getOrdem()?>" required />
+					
+					<br />
+					<label for="menuPai">Menu pai:</label>
+					<!--<input type="text" name="menuPai" id="menuPai" value="<?php echo $objeto->getMenuPai()?>" />-->
+					<?php  
+						 include_once 'controllers/SelectorController.php';
+						 $seletor = new SeletorController();
+						 echo $seletor->seletores(4,$objeto->getMenuPai());
+					?>
+
+					<div id="botoesManter">
+						<input type='hidden' name='controle' value='Menu'>
+						<input type='hidden' name='acao' value='manter'>
+						<input type='hidden' name='id' value='<?php echo $objeto->getPkMenu()?>'>
+						
+						<a href="?controle=Menu&acao=listar">Cancelar</a>&nbsp;&nbsp;
+						<button type='submit' class='btSalvar'>Salvar</button>
+					</div>
+				</form>
+			</div>
+	</article>
+</body>
+</html>

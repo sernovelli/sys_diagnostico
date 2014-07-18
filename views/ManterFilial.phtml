@@ -1,0 +1,60 @@
+<?php
+$v_params = $this->getParams();
+$objeto = $v_params['objeto'];
+
+include_once 'includes/head.php';
+?>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Filial</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php 
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+		<?php } ?>
+			
+			<div id="formulario">
+				
+				<form method="post">
+					
+					<label for="id">Id:</label>
+					<input type="text" name="id" size="5" id="id" value="<?php echo $objeto->getPkFilial()?>" disabled="disabled" />
+					
+					<label for="filial">Nome da Filial:</label>
+					<input type="text" name="filial" id="filial" value="<?php echo $objeto->getFilial()?>" required />
+
+					<br />
+					<label for="idCidade">Cidade:</label>
+					<?php  
+						 include_once 'controllers/SelectorController.php';
+						 $seletor = new SeletorController();
+						 echo $seletor->seletores(1,$objeto->getIdCidade());
+					?>
+
+					<div id="botoesManter">
+						<input type='hidden' name='controle' value='Filial'>
+					<?php if ($_SESSION['hashid'] == "superadmin") { ?>
+						<input type='hidden' name='acao' value='manter'>
+						<a href="?controle=Filial&acao=listar">Cancelar</a>&nbsp;&nbsp;
+					<?php } else 
+						if ($_SESSION['hashid'] == "gerentefilial") { ?>
+						<input type='hidden' name='acao' value='update'>
+						<a href="?controle=Inicio&acao=dashboard">Cancelar</a>&nbsp;&nbsp;
+					<?php } ?>
+						<input type='hidden' name='id' value='<?php echo $objeto->getPkFilial()?>'>
+						
+						
+						<button type='submit' class='btSalvar'>Salvar</button>
+					</div>
+				</form>
+			</div>
+	</article>
+</body>
+</html>

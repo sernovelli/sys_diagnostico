@@ -1,0 +1,97 @@
+<?php
+$v_params = $this->getParams();
+$objeto = $v_params['objeto'];
+
+include_once 'includes/head.php';
+?>
+<script type="text/javascript">
+ jQuery(document).ready(function($) {
+   $("#cnpj").mask("99.999.999/9999-99");
+});
+</script>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Clientes</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php 
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+		<?php } ?>
+			
+			<div id="formulario">
+				
+				<form method="post">
+					
+					<label for="id">Id:</label>
+					<input type="text" name="id" size="5" id="id" value="<?php echo $objeto->getPkCliente()?>" disabled="disabled" />
+					
+					<label for="contrato">Contrato:</label>
+				<?php if ($_SESSION['hashid'] == "cliente") { ?>
+					<input type="text" name="exibeContrato" id="exibeContrato" disabled="disabled" value="<?php echo $objeto->getContrato()?>"  />
+					<input type="hidden" name="contrato" id="contrato" value="<?php echo $objeto->getContrato()?>"  />
+				<?php } else { ?>
+					<input type="text" name="contrato" id="contrato" value="<?php echo $objeto->getContrato()?>" required />
+				<?php } ?>
+				
+					<br />
+					<label for="nFantasia">Nome Fantasia:</label>
+					<input type="text" name="nFantasia" id="nFantasia" value="<?php echo $objeto->getNomeFantasia()?>" required />
+					
+					<br />
+					<label for="rSocial">Raz&atilde;o Social:</label>
+					<input type="text" name="rSocial" id="rSocial" value="<?php echo $objeto->getRazaoSocial()?>" required />
+					
+					<br />
+					<label for="cnpj">CNPJ:</label>
+					<input type="text" name="cnpj" id="cnpj" value="<?php echo $objeto->getCnpj()?>" required />
+					
+					<br />
+					<label for="idCidade">Cidade:</label>
+
+					<?php  
+						 include_once 'controllers/SelectorController.php';
+						 $seletor = new SeletorController();
+						 echo $seletor->seletores(1,$objeto->getIdCidade());
+					?>
+					
+					<br />
+					<?php if ($_SESSION['hashid'] == "cliente") { ?>
+					<label for="status">Status:</label>
+						<input type="text" name="exibeStatus" id="exibeStatus" disabled="disabled" value="<?php if ($objeto->getClienteStatus() == 1) { echo "Ativo"; } else if ($objeto->getClienteStatus() == 0) { echo "Inativo"; } ?>" /> 
+						<input type="hidden"name="status" id="status" value="<?php echo $objeto->getClienteStatus(); ?>" />
+					<?php } else { ?>
+					<label for="status">Status:</label>
+					<select name="status">
+						<option value="-1" selected="selected">Selecione:</option>
+						<option value="1" <?php if ($objeto->getClienteStatus() == 1) { echo "selected='selected'"; } else { echo ""; } ?>>Ativo</option>
+						<option value="2" <?php if ($objeto->getClienteStatus() == 2) { echo "selected='selected'"; } else { echo ""; } ?>>Inativo</option>
+					</select>
+					<?php } ?>
+					
+					<div id="botoesManter">
+						<input type='hidden' name='controle' value='Cliente' />
+						
+					<?php if ($_SESSION['hashid'] == "cliente") { ?>
+						<input type='hidden' name='acao' value='update' />
+						<a href="?controle=Inicio&acao=dashboard">Cancelar</a>&nbsp;&nbsp;
+					<?php } else { ?>
+						<input type='hidden' name='acao' value='manter' />
+						<a href="?controle=Cliente&acao=listar">Cancelar</a>&nbsp;&nbsp;
+					<?php } ?>
+						
+						<input type='hidden' name='id' value='<?php echo $objeto->getPkCliente()?>' />
+						<button type='submit' class='btSalvar'>Salvar</button>
+					</div>
+				</form>
+				
+			</div>
+	</article>
+</body>
+</html>

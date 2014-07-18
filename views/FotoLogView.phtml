@@ -1,0 +1,50 @@
+<?php
+$v_params = $this->getParams();
+$vetor = $v_params['vetor'];
+
+$controle = $_REQUEST['controle'];
+//echo "<pre>"; print_r($vetor); echo "</pre>"; break;
+include_once 'includes/head.php';
+?>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Fotos - Log de envio</h1>
+	
+		<section id="opcoes">
+            
+		<?php if ($_SESSION['hashid'] == "gerentefilial" || $_SESSION['hashid'] == "desenvolvedor") { ?>
+                <a id="novo" href='?controle=<?php echo $controle; ?>&acao=manter&pag=<?php echo $_REQUEST['pag'];?>' class='icoNovo'>Adicionar foto(s)</a>
+		<?php } ?>
+          </section>
+		
+		<table style="width: 99%;">
+		<?php 
+			foreach ($vetor as $item) {
+				echo "<tr><td>";
+				
+				echo "Enviando arquivo  : ". $item -> getLogEnviaArquivo()."<br />";
+				echo "Arquivo enviado   : ". $item -> getLogNomeArquivoEnviado()."<br />";
+				echo "Renomeando        : ". $item -> getLogRenomeiaArquivo()."<br />";
+				echo "Redimensionando   : ". $item -> getLogRedimensionaArquivo()."<br />";
+				echo "Criando miniatura : ". $item -> getLogCriaMiniatura()."<br />";
+				echo "Salvando          : ". $item -> getLogSalvaEmBD()."<br />";
+				echo "<hr />";
+				
+				echo "</td></tr>";
+				$totalArquivos = $item -> getLogContaArquivos();
+			}
+		?>
+		</table>
+		<?php echo "Total de arquivos enviados: ".$totalArquivos; ?>
+		<section style="text-align: center;">
+			<?php $pag = ($_REQUEST['pag'] != "") ? $_REQUEST['pag'] : 1; ?>
+			<a href='?controle=<?php echo $controle; ?>&acao=listar&pag=<?php echo $pag; ?>'>Voltar para Fotos</a>
+		</section>
+
+	</article>
+</body>
+</html>

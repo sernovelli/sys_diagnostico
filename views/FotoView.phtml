@@ -1,0 +1,147 @@
+<?php
+$v_params = $this->getParams();
+$vetor = $v_params['vetor'];
+
+$controle = $_REQUEST['controle'];
+//echo "<pre>"; print_r($vetor); echo "</pre>"; break;
+include_once 'includes/head.php';
+?>
+</head>
+<body>
+	<?php include_once 'includes/topo.php'; ?>
+	<?php include_once 'includes/lateral.php'; ?>
+	
+	<article>
+        <h1>Fotos</h1>
+        <?php if (isset($_GET['msg']) != "") { ?>
+		     <div id="mensagem" style="display:block;">
+		        <?php //echo strtoupper($mensagem);
+		        		include_once 'lib/Mensagens.php';
+					$msg = new Mensagens($_GET['msg']);
+		        ?>
+		     </div>
+		<?php } ?>
+			
+			
+		<section id="opcoes">
+            <div id="filtros">
+                <form name="filtro" method="post">
+                    <select name="status" id="status">
+                        <option value="1" selected="selected">Ativo</option> 
+                        <option value="2">Inativo</option>
+                    </select>
+                    &nbsp;&nbsp;&nbsp;
+                    
+                    <?php
+					 include_once 'controllers/SelectorController.php';
+					 $seletor = new SeletorController();
+					 // seletor de filiais
+					 if ($_SESSION['hashid'] == "superadmin" || $_SESSION['hashid'] == "gerentefilial") {
+					 	echo $seletor->seletores(11,$_SESSION['idUsuario']);
+					 } else 
+					 if ($_SESSION['hashid'] == "cliente") {
+					 	echo $seletor->seletores(13,$_SESSION['idUsuario']);
+					 }
+				?>
+                    &nbsp;&nbsp;&nbsp;
+                    
+                    <?php
+					 // seletor de clientes
+					 if ($_SESSION['hashid'] == "gerentefilial" || $_SESSION['hashid'] == "superadmin") {
+					 	$seletor = new SeletorController();
+					 	echo $seletor->seletores(12,$_SESSION['idFilial']);
+					 }
+				?>
+                    &nbsp;&nbsp;
+                    
+                    <input type='hidden' name='filtro' value='1'>
+                    <input type='hidden' name='controle' value='Foto'>
+				<input type='hidden' name='acao' value='listar'>
+				<input type="hidden" name="pag" value="1" />
+                    <input type="submit" value="Filtrar" />
+                </form>
+            </div>
+            
+		<?php if ($_SESSION['hashid'] == "gerentefilial" || $_SESSION['hashid'] == "desenvolvedor") { ?>
+                <a id="novo" href='?controle=<?php echo $controle; ?>&acao=manter&pag=<?php echo $_REQUEST['pag'];?>' class='icoNovo'>Adicionar foto(s)</a>
+		<?php } ?>
+        </section>
+		<table style="width: 99%;" id="table" class="sortable fotos">
+		<tbody>
+		<?php 
+			$colunas = 2;
+			$paginacao = array_pop($vetor);
+			
+			foreach ($vetor as $item) {
+					
+				if ($colunas > 1) {
+					echo "<tr>";
+					$colunas = 0;
+				}
+				
+				if ($colunas <= 1) {
+					echo "<td align='left'>";
+					$imgGrande = $item->getCaminhoFoto()."/".$item->getFoto().".".$item->getTipo();
+				}
+				
+				$title = "";
+				$inclusao = implode("/", array_reverse(explode("-",$item->getDtInclusao())));
+				
+				if ($_SESSION['hashid'] == "superadmin" || $_SESSION['hashid'] == "gerentefilial" || $_SESSION['hashid'] == "desenvolvedor") {
+				 	$title .= "<br /><strong>Cliente:</strong> ".$item->getNomeCliente();
+					$title .= "<br /><strong>Incluso:</strong> ".$inclusao;
+				}
+				
+				$title .= " Loja: ".$item->getLoja()." <br />Coordenador: ".$item->getCoordenador()." <br />Promotor: ".$item->getPromotor();
+		?>
+				<a class="foto" href="<?php echo $imgGrande; ?>" data-lightbox="roadtrip" title="<?php echo $title; ?>">
+					<img src="<?php echo $item->getMiniatura(); ?>" align="left" alt="" />
+				</a>
+				<div class="infoto">
+		<?php 	echo "<strong>Loja:</strong> ".$item->getLoja();
+				echo "<br /><strong>Coordenador:</strong> ".$item->getCoordenador();
+				echo "<br /><strong>Promotor:</strong> ".$item->getPromotor();
+				
+				if ($_GET['pag'] == "" || !isset($_GET['pag'])) {
+					$pag = "&pag=1";
+				} else {
+					$pag = "&pag=".$_GET['pag'];
+				}
+			
+				if ($_SESSION['hashid'] == "superadmin" || $_SESSION['hashid'] == "gerentefilial" || $_SESSION['hashid'] == "desenvolvedor") {
+				 	echo "<br /><strong>Cliente:</strong> ".$item->getNomeCliente();
+					echo "<br /><strong>Incluso:</strong> ".$inclusao;
+		?>
+					<br /><br />
+					<?php if ($item->getFotoStatus() == 2) { ?>
+                       		<a href="?controle=<?php echo $controle; ?>&acao=ativar&id=<?php echo $item->getPkFoto()?><?php echo $pag;?>" class="icoPublicar linkOpcoes" title="Publicar">Publicar</a>
+                       	<?php } else if ($item->getFotoStatus() == 1) { ?>
+                       		<a href="?controle=<?php echo $controle; ?>&acao=ativar&id=<?php echo $item->getPkFoto()?><?php echo $pag;?>" class="icoDespublicar linkOpcoes" title="Despublicar">Despublicar</a>
+                       	<?php } ?>
+                       	
+					<a href='?controle=<?php echo $controle; ?>&acao=manter&id=<?php echo $item->getPkFoto()?><?php echo $pag;?>' class='icoEditar linkOpcoes' title="Editar">Editar</a>
+					<a href='?controle=<?php echo $controle; ?>&acao=apagar&id=<?php echo $item->getPkFoto()?><?php echo $pag;?>' class='icoExcluir linkOpcoes' title="Excluir">Excluir</a>
+		<?php 	} else { echo "<br />"; } ?>
+				
+				<a href='?controle=<?php echo $controle; ?>&acao=baixar&id=<?php echo $item->getPkFoto()?>' class='icoBaixarFoto linkOpcoes' title="Baixar">Baixar</a>
+		<?php	echo "</div>";
+				
+				if ($colunas <= 1) {
+					echo "</td>";
+				}
+				
+				$colunas++;
+				if ($colunas > 1) {
+					echo "</tr>";
+				}
+			
+			} // foreach
+		?>
+		</tbody>
+		</table>
+		
+		<!-- Paginação -->
+		<?php echo $paginacao; ?>
+	</article>
+</body>
+</html>

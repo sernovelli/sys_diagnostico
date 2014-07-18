@@ -1,0 +1,22 @@
+ 
+ *------------------------------------------------------------*
+					  
+ Id da sessão: 5c4c71aa58d1a9cac64634483861737d
+					  
+ Nome da sessão: PHPSESSID_GERENTE1
+					  
+ Usuário: Gerente Matriz (gerente1)
+					  
+ Tipo de acesso: Filial/Dinamica 
+					  
+ Data: 22/09/2013 23:06:19 
+					  
+	End. IP: 189.58.15.203 
+					  
+	Porta: 50188 
+					  
+	Método de acesso: POST 
+					  
+	URL da Origem: /arquivos_testar/Index.php 
+					  
+	Origem do acesso: http://dinamicarh.net/arquivos_testar/Index.php?controle=Inicio&acao=logar 
