@@ -2,11 +2,7 @@
 ob_start();
 session_start();
 /**
- * GERAARQUIVOS - Sistema gerenciador de arquivos
- * @Versao: 1.3 - 2013
- * @autor: Sérgio Novelli - sergio@alkantara.com.br
- * @agencia: Alkantára
- * @cliente: Dinamica RH & Merchandising
+ * @autor: Sérgio Novelli
  */
  
  // Grava logs de acesso e operações
