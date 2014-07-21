@@ -18,6 +18,6 @@ $vetorMenu = $menu->listarAction($_SESSION['hashid']);
                 <a href="<?php echo $itemMenu->getUrl() ?>">&bull; <?php echo $itemMenu->getMenu() ?></a>
         <?php } } ?>
     </nav>
-    <a id="akt" href="http://www.alkantara.com.br/" target="_blank" title="Alkantára">Desenvolvido por Alkantára</a>
+    <a id="akt" href="http://www.sergionovelli.eti.br/" target="_blank" title="Sérgio Novelli">Desenvolvido por Sérgio Novelli</a>
 </aside>
 
