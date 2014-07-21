@@ -9,10 +9,7 @@ DETALHES DAS RELEASES
 	BUG = Correção de bugs de nível crítico de programação/desenvolvimento.
 
 # Equipe de Desenvolvimento:
-# Analista Programador: Sergio Novelli
-# Programador: Nelson T. Júnior
-# Webdesigner/UX: Douglas L. Figueiredo
-# Gerente de Projetos: Milton Cesar Campos
+# Sergio Novelli
 
 # Título: Diagnostic v1.2.2
 # Versão: 1
