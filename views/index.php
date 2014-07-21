@@ -1,13 +1,7 @@
 <?php 
 /**
  * DIAGNOSTIC - Sistema gerenciador de arquivos
- * @Versao: 1.0 - 2013
- * @equipe: Sérgio Novelli - Analista/desenvolvedor web - sergio@alkantara.com.br
- * 		  Nelson Júnior - Programador - nelson@alkantara.com.br
- * 		  Douglas Figueredo - webdesigner - douglas@alkantara.com.br
- * 		  Milton de Campos - Gerente Comercial
- * @agencia: Alkantára
- * @cliente: Dinamica RH & Merchandising
+ * @author: Sérgio Novelli
  */
 ?>
 <!doctype html>
